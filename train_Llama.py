@@ -1,41 +1,52 @@
+# import multiprocessing as mp
+# mp.set_start_method("spawn", force=True)
+
 import argparse
-import glob
+#import glob
 import os
 import json
 import time
 import logging
 import random
 import re
-from itertools import chain
-from string import punctuation
+#from itertools import chain
+#from string import punctuation
 from tqdm import tqdm
 
-import nltk
-nltk.download('punkt')
-from nltk.tokenize import sent_tokenize
+#import nltk
+#nltk.download('punkt')
+#from nltk.tokenize import sent_tokenize
 
-import pandas as pd
+#import pandas as pdn
 import numpy as np
 import torch
-import torch.nn as nn
+#import torch.nn as nn
 import pytorch_lightning as pl
 from torch.utils.data import Dataset, DataLoader
-from pytorch_lightning.loggers import WandbLogger
-from nlp import load_metric
-import sys
-import scipy.special
+from pytorch_lightning.loggers import TensorBoardLogger
+#from nlp import load_metric
+#import sys
+#import scipy.special
 
 from transformers import (
-    AdamW,
     get_linear_schedule_with_warmup,
     AutoModelForCausalLM,
     AutoTokenizer
 )
+from torch.optim import AdamW
+
 from peft import LoraConfig, get_peft_model
-import wandb
+# push merged model to Hugging Face Hub
+from huggingface_hub import login, upload_folder
+#import wandb
+
+
 
 # hyperparameters and the like
-model_name = "meta-llama/Llama-3.1-8B"
+model_name = "unsloth/Meta-Llama-3.1-8B-bnb-4bit"
+#model_name = "hf-internal-testing/tiny-random-LlamaForCausalLM"
+#model_name = "meta-llama/Llama-3.1-8B"
+
 lora_config = LoraConfig(
         r = 32,
         target_modules = ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj",],
@@ -46,10 +57,10 @@ lora_config = LoraConfig(
 )
 num_epochs = 5
 negation_terms = ["negative", "free", "clear", "resolved", "normal", "improved", "stable", "absence", "remission", "denied", "rule", "ruled", "present", "evidence", "found", "unlikely", "have", "has", "contribute", "no", "not", "denies", "denied", "without", "never", "none", "neither"]
-medical_terms_file = "summary_medical_concepts.txt"
-Openi_dataset = "Openi_with_terms.jsonl"
+medical_terms_file = "/kaggle/input/summary-medical-concepts/summary_medical_concepts.txt"
+Openi_dataset = "/kaggle/input/openi-with-terms/Openi_with_terms.jsonl"
 output_length = 512
-input_length = 2048
+input_length = 1024
 prompt = "You are an expert medical professional. Summarize the radiology report findings into an impression with minimal text"
 alpaca_prompt = """Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
 
@@ -62,40 +73,74 @@ alpaca_prompt = """Below is an instruction that describes a task, paired with an
 ### Response:
 {}"""
 
-lambda_medical=0.0021
-lambda_negation=0.0021
+lambda_medical=0.0025
+lambda_negation=0.0025
 adam_epsilon=1e-7
 #learning_rate=0.00006   
 learning_rate=0.001
-train_batch_size=2
+train_batch_size=1
 eval_batch_size=8
-output_dir="llama3.1-8B-Med-Neg-Lora"
-
-YOUR_API_KEY = ''
-os.environ["WANDB_API_KEY"] = YOUR_API_KEY
-wandb_logger = WandbLogger(project='MQA_Bart')
-
+output_dir="/kaggle/working/llama3.1-8B-LogitLoss"
+repo_id = "Chilliwiddit/llama3.1-8B-LogitLoss"
+#repo_id = "Chilliwiddit/llama3.1-8B-test"
+hf_token = "" 
 
 
-
-def set_seed(seed):
-    random.randint(0, 4)
-    np.random.seed(seed)
-    torch.manual_seed(seed)
-    if torch.cuda.is_available():
-        torch.cuda.manual_seed_all(seed)
+login(token=hf_token)
+tb_logger = TensorBoardLogger(save_dir="logs/", name="my_model")
 
 
-model = AutoModelForCausalLM.from_pretrained(model_name)
 
 
 class LlamaFineTuner(pl.LightningModule):
     def __init__(self):
+        pl.seed_everything(42)
+
         super(LlamaFineTuner, self).__init__()
-        self.model = get_peft_model(model, lora_config)
-        self.tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=False)
+        base_model = AutoModelForCausalLM.from_pretrained(
+            model_name,
+            device_map={"": 0},
+            low_cpu_mem_usage=True,
+            torch_dtype=torch.float16
+        )
+        self.model = get_peft_model(base_model, lora_config)
+        self.tokenizer = AutoTokenizer.from_pretrained(model_name)
+
+
+        if self.tokenizer.pad_token is None:
+            print("Adding pad token...")
+            self.tokenizer.add_special_tokens({"pad_token": "<|pad|>"})
+            self.model.resize_token_embeddings(len(self.tokenizer))
+            self.model.config.pad_token_id = self.tokenizer.pad_token_id
+            print("Added pad token")
+
+        #testing code
+        self.model.config.pad_token_id = self.tokenizer.pad_token_id
+        self.model.config.use_cache = False
 
         self.training_data = Resource(tokenizer=self.tokenizer, type_path=None, num_samples=None, input_length=input_length, output_length=output_length)
+
+
+        with open(medical_terms_file) as f:
+            terms = [ln.strip() for ln in f if ln.strip()]
+        med_ids = []
+        for t in terms:
+            med_ids.extend(self.tokenizer(t, add_special_tokens=False)["input_ids"])
+            med_ids.extend(self.tokenizer(" " + t, add_special_tokens=False)["input_ids"])
+            print(f"Processed medical term: {t}")
+        self.register_buffer("medical_vocab_ids",
+                            torch.tensor(sorted(set(med_ids)), dtype=torch.long))
+        print("Finished reading medical_term_file.txt !")
+
+
+        neg_ids = []
+        for t in negation_terms:
+            neg_ids.extend(self.tokenizer(t, add_special_tokens=False)["input_ids"])
+            neg_ids.extend(self.tokenizer(" " + t, add_special_tokens=False)["input_ids"])
+            print(f"Processed negation term: {t}")
+        self.register_buffer("negation_vocab_ids",
+                            torch.tensor(sorted(set(neg_ids)), dtype=torch.long))
+        print("Finished construction of neg_unigrams_ids!")
 
 
 
@@ -128,95 +173,49 @@ class LlamaFineTuner(pl.LightningModule):
     )
     
 
-
     def _step(self, batch, training_mode=False):
         labels = batch["labels"]
         labels[labels[:, :] == self.tokenizer.pad_token_id] = -100
-        
-        outputs = self(
+
+        outputs = self.model(
             input_ids=batch["input_ids"],
             attention_mask=batch["attention_mask"],
             labels=labels
         )
 
-        effective_batch_size = outputs.logits.size()[0]
+        shift_logits = outputs.logits[..., :-1, :].contiguous()
+        shift_labels = labels[..., 1:].contiguous()
 
-        medical_loss = torch.tensor(0.0).type_as(outputs[0]) 
-        negation_loss = torch.tensor(0.0).type_as(outputs[0])
+        #Create a clone so we don't mess up the actual labels for loss calc
+        gather_indices = shift_labels.clone()
+        gather_indices[gather_indices == -100] = 0
 
-        for i in range(effective_batch_size):
-            average_logits = torch.mean(outputs.logits[i], 0)
-            idx = batch["id"][i].item()
+        log_probs = shift_logits.gather(2, gather_indices.unsqueeze(-1)).squeeze(-1)
 
-            medical_terms = self.training_data[idx]['medical_terms']#gets the medical terms
-            position_list = self.training_data[idx]['position_list']#gets the positions of the medical terms
-            neg_uni = self.training_data[idx]['neg_uni']# gets the negations terms all for a row of data
-            source = labels[i]#gets the labels for that row
+        med_mask = torch.isin(shift_labels, self.medical_vocab_ids)
+        neg_mask = torch.isin(shift_labels, self.negation_vocab_ids)
 
-            # update negation_loss
-            if len(neg_uni) > 0:
-                for term in neg_uni: #for each negation term
-                    id_comb = None
-                    # check membership first
-                    if term in neg_unigrams_ids:
-                        id_comb = neg_unigrams_ids[term]  # gets the token ids for that negation term
-                    else:
-                        id_comb = self.return_token_ids(term) #manually tokenizes the term and returns the ids
+        print("Are there negation terms in the batch?: ", neg_mask.any().item())
 
-                    for j in range(id_comb.size()[0]):
-                        neg_id = id_comb[j].item() #gets a specific token
-                        presence_neg = (source == neg_id).nonzero(as_tuple=True)[0].tolist()  #returns the list of positions where the token appears in the source
+        effective_batch_size = shift_logits.shape[0]
 
-                        # if there are no positions, continue
-                        if len(presence_neg) == 0: 
-                            continue
+        if med_mask.any():
+            med_loss_term = (lambda_medical * log_probs[med_mask].sum()) / effective_batch_size
+        else:
+            med_loss_term = torch.tensor(0.0, device=shift_logits.device)
 
-                        for p in presence_neg: #for each position....
-                            negation_loss += average_logits[neg_id] 
-
-
-            #update medical loss
-            if len(medical_terms) > 0:
-                for m in range(len(medical_terms)):#we iterate this way to get the index...
-                    id_comb = None
-                    if position_list[m] == 1:
-                        if medical_terms[m] in medical_term_ids_mid:
-                            id_comb = medical_term_ids_mid[medical_terms[m]]
-                        else:
-                            id_comb = self.return_token_ids(medical_terms[m])
-                    elif position_list[m] == 0:
-                        if medical_terms[m] in medical_term_ids_begin:
-                            id_comb = medical_term_ids_begin[medical_terms[m]]
-                        else:
-                            id_comb = self.return_token_ids(medical_terms[m])
-                    elif position_list[m] == 2:
-                        if (medical_terms[m] in medical_term_ids_mid) and (medical_terms[m] in medical_term_ids_begin):
-                            id_comb = torch.unique(torch.cat((medical_term_ids_mid[medical_terms[m]], medical_term_ids_begin[medical_terms[m]])))
-                        else:
-                            id_comb = self.return_token_ids(medical_terms[m])
-
-                    for j in range(id_comb.size()[0]):
-                        vocab_id = id_comb[j].item()
-                        presence_vocab = (source == vocab_id).nonzero(as_tuple=True)[0].tolist()
-
-                        # if there are no positions, continue
-                        if len(presence_vocab) == 0: 
-                            continue
-
-                        for p in presence_vocab:
-                            medical_loss += average_logits[vocab_id]
-                            #for good measure, adds the average logits for upto the 2 previous tokens
-                            if p - 1 >= 0: 
-                                medical_loss += average_logits[source[p-1]]
-                            if p - 2 >= 0: 
-                                medical_loss += average_logits[source[p-2]]   
-
+        if neg_mask.any():
+            neg_loss_term = (lambda_negation * log_probs[neg_mask].sum()) / effective_batch_size
+        else:
+            neg_loss_term = torch.tensor(0.0, device=shift_logits.device)
 
         loss = outputs[0]#gets the loss
-        print(f"Initial loss: {loss.item()}, Medical loss: {medical_loss.item()}, Negation loss: {negation_loss.item()}")
+        print(f"Initial loss: {loss.item()}, Medical loss: {med_loss_term.item()}, Negation loss: {neg_loss_term.item()}")
 
-        loss += (lambda_medical * medical_loss) / effective_batch_size
-        loss += (lambda_negation * negation_loss) / effective_batch_size #ADDS the loss in order to penalize over rewarding it
+        loss -= med_loss_term
+        loss -= neg_loss_term
+
+        #subtracts the loss to encourage it 
         
         print(f"Final loss: {loss.item()}")
 
@@ -262,18 +261,13 @@ class LlamaFineTuner(pl.LightningModule):
 
         return base_metrics
 
-    
     def training_step(self, batch, batch_idx):
         loss = self._step(batch, training_mode=True)
 
-        tensorboard_logs = {"train_loss": loss}
-        return {"loss": loss, "log": tensorboard_logs}
-    
+        self.log("train_loss", loss, on_step=True, on_epoch=True, prog_bar=True, logger=True)
 
-    def training_epoch_end(self, outputs):
-        avg_train_loss = torch.stack([x["loss"] for x in outputs]).mean()
-        tensorboard_logs = {"avg_train_loss": avg_train_loss}
-        return {"avg_train_loss": avg_train_loss, "log": tensorboard_logs, 'progress_bar': tensorboard_logs}
+        return loss
+    
     
 
     #no need validation_step
@@ -286,7 +280,7 @@ class LlamaFineTuner(pl.LightningModule):
 
         optimizer = AdamW(
             trainable_params,
-            lr=self.learning_rate,
+            lr=learning_rate,
             eps=adam_epsilon
         )
 
@@ -298,7 +292,7 @@ class LlamaFineTuner(pl.LightningModule):
         self.opt = optimizer
 
         return {
-            "optimizer": [optimizer],
+            "optimizer": optimizer,
             "lr_scheduler": {
                 "scheduler": scheduler,
                 "interval": "step",
@@ -321,7 +315,7 @@ class LlamaFineTuner(pl.LightningModule):
         return DataLoader(
             train_dataset,
             batch_size=train_batch_size,
-            shuffle=True,
+            shuffle=False,
             num_workers=2
         )
 
@@ -347,7 +341,7 @@ class LoggingCallback(pl.Callback):
             metrics = trainer.callback_metrics
 
             # Log and save results to file
-            output_test_results_file = os.path.join(pl_module.hparams.output_dir, "test_results.txt")
+            output_test_results_file = os.path.join(output_dir, "test_results.txt")
             with open(output_test_results_file, "w") as writer:
                 for key in sorted(metrics):
                     if key not in ["log", "progress_bar"]:
@@ -356,7 +350,7 @@ class LoggingCallback(pl.Callback):
 
 
 class Resource(Dataset):
-    def __init__(self, tokenizer, type_path, num_samples, input_length, output_length, print_text=True):
+    def __init__(self, tokenizer, type_path, num_samples, input_length, output_length, print_text=False):
         file = Openi_dataset
         dataset_list = []
         count = 0#this basically is the index, starting from 0, obviously
@@ -368,23 +362,8 @@ class Resource(Dataset):
                 d["id"] = count
                 d["text"] = patientDict["article"]
                 d["headline"] = patientDict["summary"]
-                d["medical_terms"] = patientDict["medical_terms"]
 
-                # encode the position of each medical term 
-                position_list = []
-                for m in d["medical_terms"]:#for each medical term...
-                    test_str = d["headline"]#gets the target sequence
-                    res = [i for i in range(len(test_str)) if test_str.startswith(m, i)]#this returns all the positions where that specific medical terms STARTS in the target sequence, it gives it as a list of integers
-                    if len(res) > 1 and res[0] == 0:#if the size of res is more than one (more than 1 appearances) and the first appearance is at index 0 (at the beginning)....
-                        position_list.append(2)#assigned to position 2
-                    elif len(res) > 0 and res[0] == 0:#if the size of res is more than 0 (1 appearance) and the appearance is at index 0 (at the beginning)....
-                        position_list.append(0)#assigned to position 0
-                    elif len(res) > 0 and res[0] > 0:#if the size of res is more than 0 (1 appearance) and the appearance is after index 0 (NOT at the beginning)....
-                        position_list.append(1)#assigned to position 1
 
-                d["position_list"] = position_list#this position list basically doesn't tell what MEDICAL TERM it is, it just says if it's 0, 1 or 2...
-
-                d["neg_uni"] = patientDict["negation_terms"]#negation terms
                 dataset_list.append(d)#each object is basically a row
                 count += 1#update count
 
@@ -427,9 +406,6 @@ class Resource(Dataset):
         input_ids = encoded["input_ids"].squeeze()
         attention_mask = encoded["attention_mask"].squeeze()
 
-        medical_terms = self.dataset[index]["medical_terms"]        
-        neg_uni = self.dataset[index]["neg_uni"]
-        position_list = self.dataset[index]["position_list"]
         id = self.dataset[index]["id"]
 
         masked_labels = input_ids.clone()
@@ -446,15 +422,12 @@ class Resource(Dataset):
             "input_ids": input_ids,
             "attention_mask": attention_mask,
             "labels": masked_labels,
-            "medical_terms": medical_terms,
-            "position_list": position_list,
-            "neg_uni": neg_uni,
             "id": id,
         }
 
 
 class OwnData(Dataset):
-    def __init__(self, tokenizer, type_path, num_samples, input_length, output_length, print_text=True):  
+    def __init__(self, tokenizer, type_path, num_samples, input_length, output_length, print_text=False):  
         file = Openi_dataset
         dataset_list = []
         count = 0#this basically is the index, starting from 0, obviously
@@ -528,38 +501,7 @@ class OwnData(Dataset):
         }
     
 
-set_seed(42)
-
-
-#here we go through the medical terms and tokenize it to create a dictionary. We do the same thing for negation terms as well
-medical_term_ids_begin = {}
-medical_term_ids_mid = {}
-tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=False)
-
-with open(medical_terms_file, 'r', encoding='utf8') as f:
-    custom_noun = f.readlines()
-    for i in range(len(custom_noun)):
-        medical_term = custom_noun[i].replace('\n', '')
-        ids = tokenizer.batch_encode_plus([medical_term], truncation=True, return_tensors="pt")['input_ids'][0]
-        medical_term_ids_begin[medical_term] = ids
-        #tokenizes the list of medical terms and adds them to the dictionary where the tokens are sorted under their term
-
-        ids = tokenizer.batch_encode_plus([" " + medical_term], truncation=True, return_tensors="pt")['input_ids'][0]
-        medical_term_ids_mid[medical_term] = ids
-        print("Added medical term: ", medical_term)
-        #tokenizes again just like above but this time the medical terms start with a space
-print("Finished reading medical_term_file.txt !")
-
-
-neg_unigrams = negation_terms
-neg_unigrams_ids = {}
-for e in neg_unigrams:
-    ids = tokenizer.batch_encode_plus([e], truncation=True, return_tensors="pt")['input_ids'][0]
-    
-    neg_unigrams_ids[e] = ids
-    #does the same as with the second group of medical terms
-    print("Added negation term: ", e)
-print("Finished construction of neg_unigrams_ids!")
+tokenizer = AutoTokenizer.from_pretrained(model_name)
 
 
 logger = logging.getLogger(__name__)
@@ -579,7 +521,7 @@ args_dict = dict(
     eval_batch_size=eval_batch_size,
     num_train_epochs=num_epochs,
     gradient_accumulation_steps=16,
-    n_gpu=2,
+    n_gpu=1,
     resume_from_checkpoint=None, 
     val_check_interval = 0.05, 
     n_val=1000,
@@ -588,7 +530,7 @@ args_dict = dict(
     early_stop_callback=False,
     fp_16=True, # if you want to enable 16-bit training then install apex and set this to true
     opt_level='O1', # you can find out more on optimisation levels here https://nvidia.github.io/apex/amp.html#opt-levels-and-properties
-    max_grad_norm=1.0, # if you enable 16-bit training then set this to a sensible value, 0.5 is a good default
+    max_grad_norm=0.5, # if you enable 16-bit training then set this to a sensible value, 0.5 is a good default
     seed=42,
     tau=1.0,
     lambda_medical=lambda_medical,
@@ -599,25 +541,30 @@ args_dict = dict(
 args = argparse.Namespace(**args_dict)
 
 ## Define Checkpoint function
-checkpoint_callback = pl.callbacks.ModelCheckpoint(filepath=args.output_dir, prefix="checkpoint", monitor="val_loss", mode="min", save_top_k=1)
+checkpoint_callback = pl.callbacks.ModelCheckpoint(
+    dirpath=args.output_dir, 
+    filename="checkpoint-epoch-{epoch}", 
+    every_n_epochs=3, 
+    save_top_k=1, 
+    save_last=True
+)
 
 
 train_params = dict(
     accelerator="gpu",
     devices=args.n_gpu if args.n_gpu>0 else None,
+    #strategy="ddp_spawn",
+    precision="16-mixed",
     max_epochs=args.num_train_epochs,
-    early_stop_callback=False,
+    callbacks=[LoggingCallback(), checkpoint_callback],
     accumulate_grad_batches=args.gradient_accumulation_steps,
-    precision= 16 if args.fp_16 else 32,
-    amp_level=args.opt_level,
-    resume_from_checkpoint=args.resume_from_checkpoint,
+    #precision= 16 if args.fp_16 else 32,
     gradient_clip_val=args.max_grad_norm,
-    checkpoint_callback=checkpoint_callback,
+    #checkpoint_callback=checkpoint_callback,
     val_check_interval=args.val_check_interval,
-    callbacks=[LoggingCallback()],
-    logger=wandb_logger,
+    logger=tb_logger,
     sync_batchnorm=True,
-    accelerator='dp'
+    fast_dev_run=False, 
 )
 
 
@@ -625,11 +572,40 @@ def get_dataset(tokenizer, type_path, num_samples, input_length, output_length):
     return OwnData(tokenizer=tokenizer, type_path=None, num_samples=None, input_length=input_length, output_length=output_length)
 
 
-model = LlamaFineTuner(args)
+model = LlamaFineTuner()
+
 
 trainer = pl.Trainer(**train_params)
+
+
+
 print ("Training model")
 trainer.fit(model)
 
 
 print ("training finished")
+
+
+
+if hf_token:
+    login(token=hf_token)
+
+final_output_dir = "/kaggle/working/llama3.1-8B-LogitLoss-Final"
+
+print(f"Saving tokenizer to {final_output_dir}...")
+model.tokenizer.save_pretrained(final_output_dir)
+
+print("Saving PEFT Adapters...")
+peft_model = model.model 
+peft_model.save_pretrained(final_output_dir)
+
+print("Uploading clean folder to Hugging Face...")
+upload_folder(
+    repo_id=repo_id, 
+    folder_path=final_output_dir, 
+    repo_type="model", 
+    token=hf_token
+)
+
+print("Model push complete.")
+
