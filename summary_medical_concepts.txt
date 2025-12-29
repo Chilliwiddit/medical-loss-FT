@@ -1,1774 +1,2537 @@
-AP
-Abdomen
-Abdomen 1
-Abnormal
-Abnormal configuration
 Acromioclavicular separation
 Acute cardiopulmonary disease
-Acute obliquely oriented lucency
-Age indeterminant
-Age-indeterminate
-Age-indeterminate fracture
 Air-fluid level
-Airspace
+Airspace disease Airspace opacities
 Aortic tortuosity
 Apical capping
-Apparent old
-Apparent scarring
-Appearance
-Approximately
-Asymmetric left suprahilar opacity
-Atypical
-Atypical infection
-Bandlike opacities
-Basilar
-Basilar atelectasis
-Biapical opacities
-Bibasilar
-Bibasilar airspace disease
-Bibasilar airspace opacities
-Bibasilar atelectasis
-Bibasilar atelectasis/infiltrate
-Bibasilar bandlike opacities
-Bibasilar opacities
-Bibasilar pneumonia
-Bibasilar subsegmental atelectasis
-Bihilar
-Bilateral
-Bilateral airspace disease
-Bilateral effusions
-Blunting
-Bone scan
-Bony structures
-Borderline
-Borderline cardiomegaly
-Borderline enlarged heart
-Borderline enlargement
-Borderline heart size
+Atelectasis Basilar Bibasilar Subsegmental
+Blunting Costophrenic angle
+Bone scans
 Buckling deformity
-Bullous disease
-Bullous emphysema
-CABG
-COPD
-CT
-CT chest
-CT scan
-CT thorax
-CTA
-CXR
-Calcified left coronary arteries
-Calcified left paraesophageal
-Cardiac XXXX
-Cardiac defibrillator
-Cardiac pacemaker
-Cardiac pacing
+Bullous disease Bullous emphysema
+Calcified coronary arteries
 Cardiomegaly
-Cardiomegaly 2
-Cardiomegaly/pericardial fluid
-Central pulmonary vascular congestion
-Changes
-Chest
-Chest 1
-Chest CT
-Chest radiograph
-Chest radiograph 1
-Chest x-XXXX
-Cholelithiasis
-Chronic
-Chronic changes
-Chronic interstitial lung disease
-Chronic interstitial pattern
-Chronic lung
-Chronic lung disease
-Chronic obstructive pulmonary disease
-Chronic parenchymal
-Chronic right middle lobe scar
-Circumscribed structure
+Cholelithiasis Gallstones
+Chronic Obstructive Pulmonary Disease COPD
 Clavicle
-Clear lungs
-Cleared left lower lobe airspace disease
-Clinical correlation
-Compared
-Comparison
-Concern
 Congestive heart failure
-Considerations
-Constellation
-Contrast-enhanced XXXX examination
-Core irregularity
-Correlate
-Correlation
-Correlation XXXX scan
-Corresponds
-Critical result
-Crowded
-Date
-Decreased
-Decreasing
-Decreasing right pleural effusion
-Decreasing right upper lobe cavity
-Degenerative
-Developing heart failure
-Developing left upper lobe consolidation
+Coronary Artery Bypass Graft CABG
 Dextroscoliosis
-Diagnostic considerations
-Diffuse fibrosis
-Diffuse interstitial lung disease
-Diffuse reticulonodular pattern
 Dilated pulmonary arteries
-Discrete XXXX projectile
-Distal tip
-Dr. XXXX XXXX
-Dr. XXXX XXXX I
-Dr. XXXX XXXX telephone
-Dr. XXXX- XXXX
-Dual-XXXX
 Ectatic aorta
-Elevated left diaphragm
-Elevated left hemidiaphragm
-Elevated right hemidiaphragm
+Elevated hemidiaphragm
 Emphysema
-Emphysematous changes
 Endotracheal tube
-Enlarged cardiac silhouette
-Enlarged pulmonary arteries
-Enlargement
-Epigastric
-Evaluation
-Evidence
-Exact etiology
-FRONTAL/LATERAL
-Feeding tube tip
 Femur
-Findings
-Focal airspace disease
-Focal area
-Focal atelectasis
-Focal density overlying
-Focal opacity
-Followup
-Followup chest
-Followup exam
-Followup radiographs
 Fracture
-Fracture deformity proximal right humerus
 Fracture-dislocation
-Fractures
-Generalized low lung lungs
-Hand 1
-Haziness
-Heart failure
-Heart size
 Hiatal hernia
-High-resolution XXXX
 Hodgkin's lymphoma
-Hyperexpanded
-Hyperexpanded lung XXXX
-Hyperexpanded lungs
+Hyperinflation Hyperexpansion
+Implantable Cardioverter Defibrillator ICD
+Interstitial lung disease Interstitial pulmonary edema
+Pacemaker
+Pleural effusion Bilateral effusions
+Pneumonia
+Pulmonary vascular congestion
+Adenopathy
+Airspace consolidation
+Airspace disease
+Ankle
+Atelectasis
+Bowel
+Cardiomegaly
+Central venous catheter
+Costophrenic
+Effusion
+Fracture
+Heart failure
+Hiatus hernia
+Humeral head
+Humerus
 Hyperexpansion
-Hyperinflated
-Hyperinflated lungs
 Hyperinflation
-Hypoinflation
-Hypoventilated
-ICD
-ICD/pacemaker
-IV contrast
-Ill-defined oblong
-Ill-defined opacity
-Improving
-Increase
-Increased
-Increasing
 Indistinct vascular margination
+Interstitial edema
 Interstitial markings
 Interstitial prominence
-Interstitial pulmonary edema
-Interval
-Interval CABG
-Interval central catheter exchange
-Interval development
-Interval enlargement
-Interval followup
-Interval improvement
-Interval left subclavian
-Interval placement
-Interval removal
-Interval resolution
-Interval worsening
-Irregular
 KUB
+Knee
 L2
-Large left lower lobe opacity
 Leads
-Left
-Left ankle
-Left base
-Left base airspace disease
-Left base atelectasis
-Left base effusion
-Left base focal atelectasis
-Left base opacity
-Left basilar
-Left basilar airspace disease
-Left basilar airspace opacity atelectasis
-Left basilar atelectasis
-Left basilar opacity XXXX
-Left central venous catheter
-Left humeral head
-Left humerus fracture
-Left knee
-Left lateral decubitus
-Left lower lobe
-Left lower lobe airspace disease
-Left lower lobe atelectasis
-Left lower lobe nodule
-Left lower lobe opacities
-Left lower lobe pneumonia
-Left lower lobe subsegmental atelectasis
-Left lung grossly
-Left lung nodule
-Left mid lung focal atelectasis
-Left mid lung opacity
-Left mid lung subsegmental atelectasis
-Left midlung
-Left midlung mass
-Left midlung opacity
-Left midlung pulmonary nodule
-Left midlung subsegmental atelectasis
-Left paraspinal/retrocrural adenopathy
-Left perihilar nodular opacity redemonstrated
-Left pleural effusion
-Left retrocardiac opacities
-Left upper lobe
-Left upper lobe opacities
-Left upper lobe pneumonia
-Left venous catheter
-Left ventricular enlargement
-Left-sided
-Left-sided dual-XXXX pacemaker
-Left-sided medication
-Left-sided small pleural effusion
-Limited chest radiograph
-Limited exam
-Limited examination
-Limited quality
-Limited study
-Lines
-Lingular airspace disease
-Lingular nodule
-Lingular subsegmental atelectasis
-Lobulated anterior mediastinal opacity
-Lobulated contour
+Lingula
+Lobulated
 Loculated
-Low
-Low lung volume
-Low volume study
-Low volumes XXXX XXXX
 Lucency
-Lucent lesion
 Lumbar spine
-Lumbar spine negative
-Lung hyperexpansion
-Lung lines
-Lungs
 Malignancy
-Manifestations
+Mass
+Mediastinum
 Metastatic disease
-Mild
-Mild age
-Mild bibasilar airspace disease
-Mild bibasilar atelectasis
-Mild cardiomegaly
-Mild emphysema
-Mild heart failure
-Mild hyperexpansion
-Mild hyperinflation
-Mild hypoinflation
-Mild interstitial edema
-Mild left base atelectasis
-Mild pulmonary vascular congestion
-Mild right basilar airspace consolidation
-Mild streakiness
-Mildly
-Mildly displaced fracture
-Mildly elevated
-Mildly enlarged
-Mildly hyperinflated
-Mildly limited study
-Mildly low
-Minimal
-Minimal left costophrenic XXXX airspace disease
-Minimal left midlung atelectasis
-Minimal residuals
-Minimal small area scarring
-Minimally
-Minimally displaced fracture
-Minimally displaced right lateral 8th rib fracture
-Moderate
-Moderate hiatus hernia
-Moderate right pleural effusion
-Moderate volume
-Moderate-to-large
-Moderately hyperinflated lung XXXX
-Multifocal
-Multilobar airspace consolidation
-Multiple
-Multiple nodules
-Multiple round opacities
-Multiple thoracic XXXX deformities XXXX
-NO acute
-Near complete
-Near-complete resolution
-Negative
-Negative chest
-Negative examination
-No
-No XXXX
-No XXXX suspicious
-No active
-No active cardiopulmonary disease
-No active disease
-No active/acute cardiopulmonary disease
-No acute
-No acute cardiopulmonary
-No acute cardiopulmonary abnormalities
-No acute cardiopulmonary abnormality
-No acute cardiopulmonary disease
-No acute cardiopulmonary process
-No acute disease
-No acute pulmonary disease
-No acute right pulmonary
-No change
-No evidence
-No fracture
-No fractures
-No interval
-No pneumonia
-No significant
-Nodular
 Nodular opacity
-Nonobstructive bowel
-Nonspecific
-Normal
-Normal bowel
-Normal chest
-Normal chest exam
-Normal chest radiograph
-Normal chest xray
-Normal exam
-Normal pulmonary XXXX
-Numerous
-Obscuration
-Obscured right heart XXXX
-Old granulomatous disease
-Opacities
+Nodule
 Opacity
-Outward XXXX
-PA
-PA chest
-PICC line
-Patchy
-Pathologic fractures
+Pacemaker
+Paraspinal
+Pleural effusion
+Pneumonia
+Pulmonary vascular congestion
+Retrocrural
+Rib fracture
+Subclavian
+Ventricular enlargement
+Airspace consolidation
+Airspace disease
+Airspace opacity
+Atelectasis
+Cardiomegaly
+Cardiomediastinal silhouette
+Cavitary lesion
+Cavity
+Diaphragm elevation
+Foot
+Granulomatous disease
+Hemothorax
+Hiatal hernia
+Hilar
+Infiltrate
+Knee
+Left atrial enlargement
+Lung
+Mass
+Mediastinum
+Opacity
+Paratracheal density
+Pathologic fracture
 Pectus carinatum
 Pectus excavatum
 Pelvis
 Perihilar opacities
 Peripheral vascular disease
-Persistent
-Persistent cardiomegaly
-Persistent mild right upper lobe infiltrate
+PICC line
+Pleural effusion
 Pleural thickening
 Pneumonia
 Pneumoperitoneum
-Possibility
-Post operative chest
-Posterior airspace opacity
-Posterior basilar XXXX opacity XXXX
-Postoperative
-Postoperative chest
-Postsurgical
-Posttraumatic
-Primordial
-Probable
-Probable XXXX posterior recess effusions
-Probable lateral right 8th rib fracture
-Probable mild cardiomegaly
-Probable right lower lobe pneumonia
-Progressive
-Prominence
-Prominent
-Prominent mediastinum
-Prominent transverse
+Pneumothorax
 Pulmonary arterial hypertension
 Pulmonary emphysema
+Pulmonary fibrosis
 Pulmonary hypoinflation
+Pulmonary nodule
 Pulmonary vascular congestion
-Question
-Question XXXX pleural effusions
-Question concomitant
-Question left atrial enlargement
-Question mild
-Question small amount
-REPORT
-Recurrent moderate
-Redemonstrated
-Redemonstrated pulmonary fibrosis
-Redemonstration
-Resolution
-Result
-Results
-Retrocardiac
-Retrocardiac density XXXX
+Retrocardiac density
 Retrolisthesis
+Rib fracture
 Ribs
-Right
-Right IJ catheter tip
-Right apical cavitary lesion
-Right apical opacities
-Right basal acute airspace disease
-Right base
-Right basilar airspace disease
-Right basilar infiltrate
-Right basilar opacities
-Right basilar opacity
-Right chest XXXX catheter tip
-Right foot
-Right foot 1
-Right hemidiaphragm elevation
-Right hilar
-Right knee
-Right lower lobe airspace disease
-Right lower lobe infiltrate
-Right lower lobe opacity
-Right lower lobe pneumonia
-Right lower lobe pulmonary nodule
-Right lung
-Right lung base airspace disease
-Right mid lung mass
-Right mid lung subsegmental atelectasis
-Right middle
-Right middle lobe
-Right middle lobe airspace disease
-Right middle lobe infiltrate
-Right middle lobe lung nodule
-Right midlung
-Right midlung scar
-Right paratracheal
-Right paratracheal density
-Right paratracheal mass
-Right perihilar lung nodule
-Right pleural densities
-Right pleural effusion
-Right shoulder
-Right subclavian catheter
-Right upper lobe
-Right upper lobe airspace consolidation
-Right upper lobe cavity
-Right upper lobe infiltrate
-Right upper lobe lung nodules
-Right upper lobe opacity
-Right upper lobe pneumonia
-Right upper lobe pulmonary nodule
-Right upper lobe subsegmental atelectasis
-Right-sided chest XXXX
-Right-sided small pleural effusion
-Round area
-Round density
-Round opacity
-SOFT TISSUE
-SVC
 Scapular fracture
 Scarring
-Scattered XXXX opacities
-Scoliotic curvature
-Senescent
-Severe
-Shortness of breath FINDINGS
-Significant
-Slight cardiomegaly
-Slight interval
-Small
-Small bilateral
-Small hiatal hernia
-Small left basilar
-Small left pleural effusion
-Small left pleural effusion/hemothorax
-Small left retrocardiac opacity
-Small pleural effusions
-Small right apical pneumothorax
-Small right juxtahilar opacity
-Small right pleural effusion
-Small right upper lobe nodule
-Soft tissue
-Stable
-Stable XXXX deformities
-Stable biapical
-Stable biapical opacities
-Stable cardiomediastinal silhouette
-Stable cardiomegaly
-Stable chest
-Stable chest radiograph
-Stable chronic lung disease
-Stable enlarged
-Stable left base opacities
-Stable left calcified
-Stable left chest
-Stable left lower
-Stable left lung consolidation
-Stable left thoracotomy
-Stable left upper lobe
-Stable mild
-Stable mild cardiomegaly
-Stable mild residual
-Stable moderate
-Stable position
-Stable right basilar scarring
-Stable right middle lobe bronchiectasis
-Stable right middle lobe consolidation
-Stable right upper lung lucency
-Stable scoliosis
-Stigmata
-Streaky
-Streaky right lower lobe infiltrate
+Scoliosis
+Shoulder
+Subclavian catheter
+Thoracotomy
+Abdomen
+Acromioclavicular joint
+Adenopathy
+Airspace disease
+Atelectasis
+Bronchiectasis
+Bronchiolitis
+Calcified granuloma
+Cardiomegaly
+Consolidation
+Deformity
+Edema
+Effusion
+Fracture
+Granuloma
+Hilar mass
+Infiltrate
+Interstitial edema
+Lucency
+Nodule
+Opacities
+Pericardial effusion
+Pneumonia
+Pulmonary arterial hypertension
+Pulmonary nodule
+Scarring
+Scoliosis
+Stent
+Sternotomy
 Subcutaneous emphysema
-Subsegmental atelectasis
-Subtle
-Suspected
 T11
-T12-L1
+T12
 T5
-T9 vertebral body
-TIPS
-Thoracic aortic
+T6
+T9
+Thoracic aorta
 Thoracic spine
-Tip
 Tortuous aorta
-Tortuous thoracic aorta
-Tortuous/ectatic thoracic aorta
 Tuberculosis
-Unchanged
-Unchanged cardiomegaly
-Unchanged right hilar mass
-Underinflated
-Underinflated lungs
-Unremarkable
-Unremarkable 2 views
-Unremarkable chest
 Vagal nerve
-Vague area
-Vague left upper lobe nodular density
-Vague opacity
-Vague right upper/mid
-Verification
-Veriphy critical result
-Wedge-shaped XXXX fracture
-Wide mediastinal XXXX
-Widening
-Worsening
-XXXX
-XXXX 7 XXXX nodular
-XXXX Department
-XXXX History
-XXXX T9
-XXXX XXXX
-XXXX XXXX PM
-XXXX XXXX XXXX
-XXXX XXXX atelectasis/airspace disease
-XXXX XXXX bilateral
-XXXX XXXX bilateral effusions
-XXXX XXXX opacities
-XXXX XXXX opacity
-XXXX XXXX right
-XXXX XXXX telephone
-XXXX a
-XXXX abdomen
-XXXX acute
-XXXX acute pneumonia
-XXXX acute to subacute
-XXXX adenopathy
-XXXX airspace disease
-XXXX airspace opacity
-XXXX atelectasis
-XXXX bilateral
-XXXX bilateral effusions
-XXXX bilateral lower lobe opacities
-XXXX bilaterally
-XXXX body
-XXXX bronchiolitis
-XXXX calcified granuloma
-XXXX cell disease
-XXXX chest
-XXXX chest radiograph
-XXXX chronic
-XXXX deformity
-XXXX deformity of
-XXXX deformity of T6
-XXXX edema
-XXXX effusion
-XXXX effusions
-XXXX factors
-XXXX focal atelectasis
-XXXX fracture
-XXXX granuloma
-XXXX hours
-XXXX infectious etiology
-XXXX left basilar
-XXXX left basilar opacities
-XXXX left basilar opacity
-XXXX left lower lobe airspace disease
-XXXX left lower lobe nodule
-XXXX left parapneumonic
-XXXX left upper lobe infiltrate
-XXXX left upper lobe opacities
-XXXX left-sided pleural effusion
-XXXX lucency
-XXXX motion
-XXXX not visible
-XXXX of bowel
-XXXX of interstitial edema
-XXXX onset
-XXXX opacities
-XXXX opacities overlying
-XXXX opacity
-XXXX opacity overlying
-XXXX partial
-XXXX pericardial effusion
-XXXX position
-XXXX posterior pleural effusion
-XXXX pulmonary
-XXXX pulmonary arterial hypertension
-XXXX pulmonary nodularity
-XXXX pulmonary nodule
-XXXX pulmonary opacities
-XXXX radiograph
-XXXX represents pneumonia
-XXXX residual atelectasis
-XXXX right apical nodule
-XXXX right basilar airspace opacity
-XXXX right effusion
-XXXX right medial
-XXXX right pleural effusion
-XXXX scan
-XXXX scarring
-XXXX sclerotic
-XXXX sequela
-XXXX stent
-XXXX sternotomy
-XXXX sternotomy XXXX
-XXXX subsegmental atelectasis
-XXXX summation artifact
-XXXX tenderness
-XXXX thorax
-XXXX tip
-XXXX-XXXX
-XXXX-of-view
-XXXX/XXXX
-XXXX/fluid
-XXXXPM
-abdomen
-abdominal decubitus
-abdominal surgery
-abnormal
-abnormality
-absence
-acromioclavicular joint
-active
-active TB
-active cardiac
-active cardiopulmonary disease
-active disease
-active process
-active tuberculosis
-active tuberculosis infection
-active tuberculous process
-actual
-acute
-acute abnormalities
-acute abnormality
-acute bony abnormalities
-acute cardiac
-acute cardio pulmonary process
-acute cardiopulmonary abnormalities
-acute cardiopulmonary abnormality
-acute cardiopulmonary disease
-acute cardiopulmonary disease 2
-acute cardiopulmonary finding
-acute cardiopulmonary findings
-acute cardiopulmonary process
-acute complication
-acute consolidation
-acute disease
-acute exacerbation
-acute failure
-acute focal infiltrate
-acute fracture
-acute infectious process
-acute infiltrate
-acute intrathoracic abnormality
-acute intrathoracic finding
-acute kyphotic deformity
-acute pneumonia
-acute process
-acute pulmonary
-acute pulmonary abnormality
-acute pulmonary disease
-acute pulmonary process
-acute thoracic XXXX
-acute thoracic abnormality
-adenopathy
-adjacent
-aeration
-age
-age-indeterminate
-air fluid
-air space
-air trapping
-air-filled dilated loops
-air-fluid
-airspace consolidation
-airspace disease
-airspace opacities
-alveolar
-alveolar infiltrate
-amount
-aneurysm
-aneurysmal
-anterior
-anterior XXXX cortical
-anterior cortex
-anterior mediastinal mass
-anterior right
-anterior shoulder subluxation
-aorta
-aortic
-aortic aneurysm
-aortic dissection
-apical cavitation
-apical mass
-apical opacity
-appearance
-approximately
-area
-artifact
-artifactual
-ascending
-ascending aorta
-aspiration
-associated with
-asymmetric pulmonary edema
-atelectasis
-atelectasis 2
-atelectasis right midlung
-atelectasis/airspace disease
-atelectasis/infiltrate
-atelectasis/scar
-atelectasis/scarring
-atherosclerosis
-atherosclerotic
-atherosclerotic calcification
-atherosclerotic disease
-attention
-atypical
-atypical distribution pulmonary edema
-atypical infection
-azygos lobe
-bases
-basilar
-basilar airspace disease
-basilar atelectasis
-basilar pulmonary interstitial edema
-benefit
-bibasal subsegmental
-bibasilar
-bibasilar airspace disease
-bibasilar airspace opacities/atelectasis
-bibasilar atelectasis
-bibasilar atelectasis/airspace disease
-bibasilar focal atelectasis
-bibasilar opacities
-bibasilar opacities XXXX
-bibasilar pulmonary interstitial edema
-bibasilar subpleural interstitial opacities
-bilateral
-bilateral airspace disease
-bilateral interstitial edema
-bilateral interstitial opacities
-bilateral pleural effusions
-bilateral scarring
-bilaterally
-biventricular cardiac pacemaker
-blunting
-bone
-bone silhouettes
-bony
-bony erosions
-bony injury
-bowel XXXX
-brain tumor
-breast carcinoma
-bronchiectasis
-bronchovascular
-bronchovascular crowding
-bullet
-bullous
-calcification
-calcified
-calcified granuloma
-calcified granulomas
-calcium
-callus formation
-cardiac XXXX
-cardiac aneurysm
-cardiac enlargement
-cardiac pacemaker
-cardiac silhouette
-cardiac size
-cardiomegaly
-cardiopulmonary
-cardiopulmonary injuries
-cardiopulmonary injury
-care
-carina
-cavitary
-cavitary lesion
-cavoatrial junction
-central bronchovascular crowding
-central lungs
-central pulmonary arteries
-central pulmonary vascular congestion
-central pulmonary vascular prominence
-central vascular congestion
-central vascular congestive changes
-central vasculature
-certainty
-cervical region
-change
-changes
-characterization
-characterize
-characterized
-chest
-chest CT
-chest CT scan
-chest radiograph
-chest wall
-chest x-XXXX
-chest/abdomen
-chronic
-chronic bony abnormalities
-chronic change
-chronic changes
-chronic emphysematous lung disease
-chronic finding
-chronic granulomatous disease
-chronic injury
-chronic interstitial change
-chronic interstitial changes
-chronic interstitial lung
-chronic lung
-chronic lung disease
-chronic obstructive pulmonary disease
-chronic opacities
-chronic scarring
-chronic tuberculosis infection
-chronic upper lobe reticular-nodular pleural-parenchymal opacities
-chronicity
-circular
-clarification
-clavicular fixation
-clavicular head
-clearing
-clinical
-clinical concern
-clinical correlation
-clinical findings
-clinical setting
-clinical significance
-clinical suspicion
-clinically
-coarse perihilar
-coarsened interstitial markings
-collapse
-collections
-colonic interposition
-combination
-compared
-comparison
-comparison studies
-comparisons
-compatible
-complete
-confirmation
-congestive heart failure
-consistent with
-consolidation
-consolidations
-consolidative
-contour
-contrast XXXX
-contrast-enhanced CT
-coronal
-correlate
-correlation
-costophrenic XXXX
-costophrenic XXXX blunting
-courses
-cross sectional imaging
-crowding
-cystic fibrosis
-decompensated congestive heart failure
-decrease
-decreased
-decubitus
-defibrillator XXXX
-deformities
-degenerative
-degenerative change
-degenerative changes
-degenerative joint disease
-dense
-densities
-density
-descending aorta
-developing infection
-developmental anomaly
-device overlying left chest wall
-dextrocardia
-diameter
-diaphragm
-differential
-differential considerations
-differential diagnosis
-diffuse
-diffuse infection
-diffuse interstitial opacities
-diffusely
-dilated bronchi
-dilated cardiomyopathy
-dilated intrathoracic stomach
-discordant
-disease
-disease recurrence
-dislocation
-disruption
-dissection
-distal
-distal esophagus
-distal right clavicle
-distal tip
-document
-document resolution
-dual XXXX
-dual-lumen dialysis catheter
-dual-lumen right internal jugular central venous catheter
-dyspnea
-early failure
-early infection
-early infiltrate
-early pneumonia
-edema
-effusion
-effusions
-elevated
-elevated right hemidiaphragms
-elevation
-emphysema
-emphysematous
-emphysematous changes
-emphysematous lung
-empyema
-enlarged
-enlarged lymph node
-enlarged pulmonary arteries/pulmonary hypertension
-enlargement
-epicardial fat
-esophagectomy
-evaluate
-evaluated
-evaluation
-eventration
-evidence
-exaggerated
-exam
-examination
-examinations
-exams
-excluded
-exposure
-extrapleural fat
-failure
-faxed
-features
-feeding tube
-femur
-fibrosis
-fibrotic
-fibrotic change
-film
-films
-finding
-findings
-focal acute disease
-focal air space
-focal air space disease
-focal airspace consolidation
-focal airspace disease
-focal area
-focal areas
-focal atelectasis
-focal cardiopulmonary disease
-focal consolidation
-focal infiltrate
-focal lentiform hyperdensity
-focal lung opacity
-focal pain
-focal pneumonia
-focal tenderness
-follow up
-follow up chest
-follow up imaging
-followup
-followup PA
-followup chest
-followup imaging
-followup radiograph
-followup radiographs
-followup radiography
-for&lt;BR&gt;metastatic disease
-fracture
-fractured
-fractures
-fragments
-free
-frontal view
-gastric volvulus
-gastroesophageal junction
-geode
-glenoid
-globular
-goiter
-granuloma
-granulomas
-granulomatous
-granulomatous disease
-granulomatous infection
-granulomatous process
-gross airspace consolidation
-gross evidence
-gross interval
-groundglass
-gunshot
-healing
-heart
-heart failure
-heart size
-hemidiaphragm
-hemoptysis
-hiatal hernia
-high energy XXXX
-hilar fullness
-hilar lymph XXXX
-hilar regions
-hilar retraction
-hips negative
-history
-history of
-hours
-hydropneumothorax
-hyperexpanded lungs
-hyperinflated lungs
-hyperinflation
-hypoinflated
-hypoinflation
-identified
-identity
-idiopathic interstitial pneumonitis
-images
-imaging
-imaging XXXX
-imaging XXXX examination
-imaging studies
-improved
-improvement
-inability
-increase
-increased
-increasing
-indeterminate
-indistinct
-infection
-infection/pneumonia
-infectious
-infectious etiology
-infectious pneumonia
-infectious process
-infectious/tuberculous process
-inferior
-inferior left lateral chest wall
-infiltrate
-infiltrates
-infiltrative process
-inflammation
-inflammatory
-inflammatory processes
-informed
-injection XXXX
-innominate vein
-inspiratory XXXX
-institution
-intact
-interpretation
-interstitial
-interstitial accentuation
-interstitial disease
-interstitial edema
-interstitial fibrosis
-interstitial infiltrates
-interstitial lung disease
-interstitial markings
-interstitial opacities
-interstitial opacities XXXX represent
-interstitial opacity
-interstitial prominence
-interstitial pulmonary
-interstitial pulmonary edema
-interstitial thickening
-interstitium
-interval
-interval change
-interval reduction
-interval worsening
-intraperitoneal air
-intrapulmonary lymph node
-intravenous contrast
-irregular
-knee
-laparoscopic surgery
-large bowel
-lateral
-lateral XXXX
-lateral XXXX XXXX
-lateral chest
-lateral chest radiographs
-lateral costophrenic XXXX
-lateral exam
-lateral left base
-lateral radiograph XXXX XXXX
-lateral right 7th rib
-lateral right base
-lateral view
-layering
-layering right pleural effusion
-left
-left 2
-left anterior
-left anterior chest
-left apex
-left atrial appendage
-left atrial enlargement
-left atrium
-left base
-left base XXXX atelectasis
-left base airspace disease
-left base atelectasis
-left base focal atelectasis
-left base scarring/atelectasis
-left basilar
-left basilar airspace disease
-left basilar atelectasis
-left basilar infiltrate
-left basilar opacities
-left basilar opacity
-left basilar subsegmental atelectasis
-left cardiophrenic XXXX
-left chest
-left costophrenic XXXX
-left costophrenic recess
-left diaphragm
-left glenohumeral joint
-left greater
-left hemidiaphragm
-left hilar fullness
-left hilar mass
-left hilum
-left hip
-left hydropneumothorax
-left lateral chest
-left lateral clavicle
-left lower hemithorax
-left lower lobe
-left lower lobe airspace disease
-left lower lobe infiltrate
-left lower lobe pneumonia
-left lower lobe scarring
-left lower lung
-left lower lung atelectasis
-left lung
-left lung base
-left lung base XXXX
-left midlung
-left midlung zone
-left perihilar
-left pleural drainage catheter
-left pleural effusion
-left pneumothorax
-left pulmonary mass
-left retrocardiac airspace opacities
-left rib 7
-left subphrenic free air
-left superior lower lobe
-left upper
-left upper lobe
-left upper lobectomy
-left upper lung
-left worse
-left worse right
-left-sided
-left-sided XXXX
-left-sided scarring/subsegmental atelectasis
-left-sided volume loss
-lesions
-level
-lingula
-lingular airspace disease
-lingular atelectasis
-lingular focal atelectasis
-lingular regions
-lobar consolidation
-lobar pneumonia
-lobes XXXX
-localize
-localized
-localized fluid
-location
-loculated
-loculated fluid
-long-term
-low
-lower
-lower lobe interstitial opacities
-lower lobe patchy opacities
-lower lobe pneumonia
-lower lobes
-lower thoracic XXXX deformity
-lower thoracic slight XXXX deformity
-lumbar spine
-lung
-lung XXXX
-lung apices
-lung bases
-lung markings
-lung mass
-lung vascularity
-lung volumes
-lungs
-lymphadenopathy
-malignancy
-margin
-markings
-mass
-mass lesion
-mass lesions
-masses
-masslike left lung base opacity
-masslike opacification
-measuring
-mechanical obstruction
-medial
-medial right atelectasis
-medial right basilar airspace disease
-medial right clavicle
-medial right upper lobe
-mediastinal
-mediastinal contour near
-mediastinal contours
-mediastinal fat
-mediastinal lymphadenopathy
-mediastinal silhouette
-mediastinum
-message
-metacarpal
-metastases
-metastatic disease
-metastatic nodules
-midline
-midthoracic
-midthoracic spine
-mild
-mild atelectasis
-mild basilar atelectasis
-mild bibasilar infiltrates
-mild cardiomegaly
-mild central pulmonary vascular congestion
-mild congestive heart failure
-mild crowding
-mild ectasia
-mild edema
-mild interstitial edema
-mild interstitial lung disease
-mild interstitial pulmonary edema
-mild left-sided volume loss
-mild pulmonary edema
-mild pulmonary interstitial edema
-mild residual
-mild right basilar opacities
-mild right paratracheal soft tissue
-mildly enlarged
-minimal
-minimal scarring
-mitral valve surgery
-moderate
-months
-mucous
-multifocal pneumonia
-multilobar pneumonia
-muscular dystrophy
-neck
-negative
-neoplasm
-neoplastic process
-no acute disease
-no airspace disease
-nodular
-nodular density
-nodular opacities
-nodular opacity
-nodule
-nodule/lymph node
-nodule/mass
-nodules
-non
-nonconsolidating right lower lobe airspace disease
-noncontrast XXXX
-noncontrast chest
-noncontrasted
-nondisplaced
-nondisplaced fracture
-nondisplaced right lateral 7th rib fracture
-nonemergent setting
-nonenlarged cardiomediastinal silhouette
-nonspecific
-normal
-notification
-notification XXXX
-notified
-obstruction
-obstructive atelectasis
-obstructive lung disease
-occult fracture
-old films
-old granulomatous disease
-old injury
-online
-opacities
-opacity
-opportunistic infection
-organoaxial
-origin
-osseous
-osseous infection
-osseous process
-osteopenia
-osteoporosis
-overlie
-overlying
-overlying ribs
-overt
-pacemaker
-pacemaker generator
-pancreatitis
-parenchymal
-parenchymal mass
-parenchymal scarring
-patchy
-patchy airspace disease
-pathology
-patient
-patient history
-patient rotation
-patient's
-patient's history
-pattern
-pelvis
-pelvis XXXX
-peribronchial cuffing
-peribronchial pneumonia
-pericardial effusion
-pericardial fat
-pericardial mass
-perihilar opacities
-perihilar opacities bilaterally
-perihilar opacity
-peripheral
-peripheral left upper lung
-persistent
-persistent right middle lobe airspace disease
-physicians
-piriform sinus
-platelike bibasilar
-please XXXX
-please XXXX XXXX
-pleural
-pleural abnormality
-pleural disease
-pleural effusion
-pleural effusions
-pleural fluid
-pleural mass
-pleural reaction
-pleural thickening
-pleural thickening 2
-pleural-parenchymal opacity
-pleural-parenchymal scarring
-pleuritis
-pneumomediastinum
-pneumonia
-pneumonitis
-pneumonitis right lower lobe
-pneumothorax
-portions
-position
-post
-post-op
-posterior
-posterior left 4th
-posterior left pleural space
-posterior right 7th rib
-posterior spine
-postobstructive pneumonia
-postop
-postoperative
-postprocedural
-postradiation
-postsurgical
-pregnancy
-preoperative
-presence
-previous/chronic pulmonary embolism
-primary differential diagnosis
-primary lung cancer
-primary lung carcinoma
-primary malignancy
-primordial XXXX
-process
-progression
-progressive
-projected
-projecting
-projects
-prominence
-prominence XXXX
-prominent
-prostate cancer
-prosthetic aortic valve
-proximal right atrium
-proximal right shoulder
-pulmonary
-pulmonary alveolar edema
-pulmonary arterial abnormality
-pulmonary arterial hypertension
-pulmonary arteries
-pulmonary artery hypertension
-pulmonary bronchiectasis
-pulmonary consolidation
-pulmonary density
-pulmonary disease
-pulmonary edema
-pulmonary edema superimposed
-pulmonary fibrosis
-pulmonary hypertension
-pulmonary interstitial edema
-pulmonary lesion
-pulmonary malignancy
-pulmonary mass
-pulmonary metastatic disease
-pulmonary nodule
-pulmonary nodules
-pulmonary opacities
-pulmonary sarcoidosis
-pulmonary tuberculosis
-pulmonary tuberculosis pneumonia
-pulmonary vascular congestion
-pulmonary vasculature
-pulmonary venous engorgement
-pulmonary venous hypertension
-questions
-radiation
-radiodense
-radiograph
-radiograph XXXX
-radiographic
-radiographically
-radiographs
-radiologist
-reactivation
-reactive adenopathy
-reactive lymphadenopathy
-reactive small airways disease
-receipt
-recommendations
-recommended
-recurrent pneumonia
-region
-remote
-renal collecting XXXX
-report
-residual
-resolution
-resolved
-resolving
-resolving pneumonia
-results
-reticular interstitial opacity
-reticulonodular interstitial opacities
-retraction
-retrocardiac airspace disease
-review
-reviewed
-rib
-rib fracture
-rib fractures
-rib series
-ribs
-right
-right XXXX
-right XXXX XXXX
-right XXXX pneumothorax
-right aortic XXXX
-right apex
-right apical thickening/atelectasis
-right atrium
-right basal chest infection
-right base
-right base airspace disease
-right base atelectasis
-right basilar airspace disease
-right basilar airspace disease/atelectasis
-right basilar atelectasis
-right basilar consolidation
-right basilar scarring
-right chest tube
-right chest wall
-right clavicle
-right costophrenic XXXX
-right costophrenic XXXX pleural thickening
-right costophrenic sulcus
-right hemidiaphragm
-right hemidiaphragm medially
-right hilum
-right humeral head
-right humeral orthopedic XXXX
-right infrahilar infiltrate
-right larger
-right lateral 9th rib
-right lateral abdominal soft tissues
-right lateral decubitus films
-right lobe
-right lower lobe
-right lower lobe airspace disease
-right lower lobe cavity
-right lower lobe consolidation
-right lower lobe pneumonia
-right lung
-right lung apex
-right lung base
-right lung base focal atelectasis
-right lung zone
-right lungs
-right medial basilar airspace opacities
-right mid lung
-right middle
-right middle lobe
-right middle lobe focal atelectasis
-right middle lobe mass
-right midlung
-right midlung airspace disease
-right midlung infiltrate
-right midlung zone
-right paratracheal stripe
-right perihilar airspace disease
-right pleural effusion
-right pleural thickening
-right retrohilar pulmonary nodule
-right ribs
-right shoulder films
-right shoulder fracture
-right upper
-right upper lobe
-right upper lobe focal opacity XXXX
-right upper lobe lung nodule
-right upper lobe opacities XXXX
-right upper lobe resection
-right upper quadrant
-right ventricle
-right-sided chronic lung scarring
-right-sided hemopneumothorax
-right-sided loculation
-right-sided pleural effusion
-right-sided pneumothorax
-right-to-left cardiomediastinal shift
-round pneumonia
-sagittal reformatted
-sarcoid
-sarcoidosis
-satisfactory
-scaphoid
-scar
-scarring
-scars
-scattered retrocardiac airspace opacities
-scattered right basilar subsegmental atelectasis
-sclerotic
-secondary
-secondary metastatic disease
-secondary mild
-secondary to
-segment
-senescent
-sent
-separation
-sequela
-sequela infectious process
-sequela of infection
-severe
-shadows
-short interval
-short-term
-shoulder
-shoulder muscles
-shoulder x-XXXX
-significance
-significant
-significant interval
-size
-sized right pneumothorax
-small bowel
-small bowel loops
-small bowel obstruction
-small effusion
-small effusions
-small left basilar scar
-small left effusion
-small left pleural effusion
-small nodule
-small nodules
-small pleural effusions
-small right pleural effusion
-soft tissue
-spinal XXXX placement
-spine
-stability
-stable
-stable cardiomegaly
-stable exam
-stable position
-stable position right chest
-stable right basilar atelectasis
-staff radiologist
-sternotomy XXXX
-sternotomy XXXX fragment
-sternum
-stomach
-streaky
-structures
-studies
-study
-subcapital fracture
-subclavian vein
-subpleural edema
-subpulmonic process
-subsegmental atelectasis
-subsegmental bibasilar atelectasis
-suggestions
-sulcus
-superimposed
-superimposed XXXX
-superimposed acute disease
-superimposed chronic lung disease/fibrosis
-superimposed left upper lobe aspergilloma
-superimposed pneumonia
-superimposed structures
-superimposing blood XXXX
-superior
-superior segment
-surgery
-surgical changes
-surgical clips
-suspected
-suspicious
-sympathetic
-symptoms
-technical factors
-technique
-telephone
-tenderness
-therapy
-thickening
-thin
-thoracic XXXX
-thoracic aorta
-thoracic injury
-thoracic metastases
-thoracic spine
-thoracic spondylosis
-thoracolumbar dextroscoliosis
-thorax
-thyroid cancer
-thyroid mass
-tip
-today's exam
-today's radiograph
-today's study
-tortuosity
-tortuous XXXX
-tortuous thoracic aorta
-tortuous/ectatic thoracic aorta
-traction bronchiectasis
-traumatic
-treatment
-tricompartmental
+Vertebral body
+Adenopathy
+Air trapping
+Air-filled dilated loops
+Airspace consolidation
+Airspace disease
+Airspace opacity
+Alveolar infiltrate
+Aneurysm
+Anterior mediastinal mass
+Aorta
+Aortic aneurysm
+Aortic dissection
+Apical cavitation
+Apical mass
+Apical opacity
+Ascending aorta
+Aspiration
+Atelectasis
+Atherosclerosis
+Azygos lobe
+Blunting
+Brain tumor
+Breast carcinoma
+Bronchiectasis
+Bronchovascular crowding
+Bullet
+Calcification
+Callus formation
+Cardiac aneurysm
+Cardiac enlargement
+Cardiomegaly
+Cardiopulmonary disease
+Carina
+Cavitary lesion
+Cavoatrial junction
+Central pulmonary arteries
+Cervical region
+Chest wall
+Consolidation
+Costophrenic angle
+Fracture
+Granuloma
+Infiltrate
+Interstitial edema
+Kyphotic deformity
+Mediastinal mass
+Pacemaker
+Pleural effusion
+Pneumonia
+Pulmonary edema
+Pulmonary vascular congestion
+Scarring
+Shoulder subluxation
+Chronic emphysematous lung disease
+Chronic granulomatous disease
+Chronic Obstructive Pulmonary Disease
+Clavicular fixation
+Clavicular head
+Coarsened interstitial markings
+Collapse
+Colonic interposition
+Congestive heart failure
+Consolidation
+Cystic fibrosis
+Decompensated congestive heart failure
+Defibrillator
+Degenerative joint disease
+Descending aorta
+Developmental anomaly
+Dextrocardia
+Dialysis catheter
+Diaphragm
+Dilated cardiomyopathy
+Dilated intrathoracic stomach
+Dislocation
+Dissection
+Distal esophagus
+Dyspnea
+Edema
+Effusion
+Elevated hemidiaphragm
+Emphysema
+Empyema
+Enlarged lymph node
+Enlarged pulmonary arteries
+Epicardial fat
+Esophagectomy
+Eventration
+Extrapleural fat
+Feeding tube
+Femur
+Fibrosis
+Focal airspace consolidation
+Focal atelectasis
+Focal lentiform hyperdensity
+Focal pneumonia
+Pulmonary hypertension
+Airspace disease
+Atelectasis
+Cardiophrenic angle
+Chest
+Clavicle
+Costophrenic recess
+Diaphragm
+Glenohumeral joint
+Hemidiaphragm
+Hemithorax
+Hilar fullness
+Hilar mass
+Hilum
+Hip
+Hydropneumothorax
+Infiltrate
+Interstitial opacity
+Interstitial prominence
+Interstitial pulmonary edema
+Interstitial thickening
+Interstitium
+Intraperitoneal air
+Intrapulmonary lymph node
+Knee
+Large bowel
+Left atrial appendage
+Left atrial enlargement
+Left atrium
+Pleural effusion
+Scarring
+Airspace disease Airspace opacities
+Cardiomediastinal silhouette
+Cardiomegaly
+Congestive heart failure
+Ectasia
+Granulomatous disease
+Infiltrate
+Interstitial lung disease
+Lesion
+Lingula
+Lobar consolidation
+Lobectomy
+Loculated fluid
+Lumbar spine
+Lung apices
+Lung markings
+Lung mass
+Lung vascularity
+Lung volumes
+Lymphadenopathy
+Malignancy
+Mass
+Mediastinal fat
+Mediastinum
+Metacarpal
+Mitral valve surgery
+Muscular dystrophy
+Neoplasm
+Nodule
+Opacity
+Osseous infection
+Pleural drainage catheter
+Pleural effusion
+Pneumothorax
+Pulmonary vascular congestion
+Rib
+Scarring
+Subphrenic free air
+Thoracic spine
+Volume loss
+Airspace disease
+Atelectasis
+Bronchiectasis
+Consolidation
+Fracture Rib
+Lymphadenopathy
+Nodule
+Osteopenia
+Osteoporosis
+Pacemaker
+Pancreatitis
+Parenchymal scarring
+Pelvis
+Peribronchial cuffing
+Pericardial effusion
+Pericardial fat
+Piriform sinus
+Pleural disease
+Pleural effusion
+Pleural thickening
+Pleuritis
+Pneumomediastinum
+Pneumonitis
+Pneumothorax
+Primary lung carcinoma
+Prostate cancer
+Prosthetic aortic valve
+Pulmonary arterial hypertension
+Pulmonary artery
+Pulmonary embolism
+Pulmonary fibrosis
+Pulmonary sarcoidosis
+Pulmonary tuberculosis
+Pulmonary vascular congestion
+Pulmonary venous engorgement
+Pulmonary venous hypertension
+Ribs
+Right atrium
+Right shoulder
+Small airways disease
+Airspace disease
+Aspergilloma
+Atelectasis
+Bronchiolitis
+Cardiomediastinal shift
+Cardiomegaly
+Cavity
+Chest tube
+Chest wall
+Clavicle
+Consolidation
+Costophrenic sulcus
+Dextroscoliosis
+Hemidiaphragm
+Hemopneumothorax
+Hilum
+Humeral head
+Infiltrate
+Loculation
+Mass
+Metastatic disease
+Paratracheal stripe
+Pleural effusion
+Pleural thickening
+Pneumothorax
+Pulmonary nodule
+Rib
+Sarcoidosis
+Scaphoid
+Scarring
+Sclerosis
+Shoulder
+Small bowel obstruction
+Soft tissue
+Spine
+Spondylosis
+Sternotomy
+Sternum
+Stomach
+Subclavian vein
+Subpleural edema
+Thoracic aorta
+Thyroid cancer
+Traction bronchiectasis
+Tuberculosis
+Ventricle
+Vertebral body
+Volume loss
+Volume overload
+Wound
+Urea nitrogen
+Breast hyperplasia
+vaccine
+Closed drainage
+Refractive error
+Chordoma
+Chest ct
+Skin cancer
+Throat rumbling and asthma
+pupil
+Demyelination myelitis
+Yinaoping
+Congestion
+Chronic urticaria
+Myocardial infarction
+Corneal resizing lens cone
+intraocular pressure
+Abnormal sugar metabolism
+menopause
+Microbiological deficiency
+Muscle strain
+Winter grass
+Epididymis
+Internal fixation
+Acid-inhibiting drugs
+Eugenics and childbearing
+Consciousness disorder
+TCT
+Head
+Sagitin tablets
+Eye drops
+VIII Concentrated Formulation
+Joint transformation
+High blood pressure
+Pelvic inflammatory disease
+Ceftriaxone
+Bone tumor
+Extremely angry
+Head and cervical CT
+Edema
+In-person consultation
+Nasal cleaner
+Gu Weisu
+Acute urethritis
+Heart and lung disease
+Preventive acupuncture
+Cervical spondylosis
+Soothe the mind and nourish the brain
+Tuberculous peritonitis
+Respiratory
+Food poisoning
+laryngoscope
+Pain relief medicine
+antibiotic
+Surgical drainage
+Premature puberty
+Snail grease
+Organophosphorus pesticide poisoning
+Pituitary magnetic resonance
+Aortic malfunction
+Early menstruation
+Gram-negative bacillus
+Immune Rheumatology
+Nasopharyngeal cancer
+Left heart failure
+chlorpheniramine
+Cephalosporin anti-inflammatory drugs
+hpv
+Artificial tears eye water
+Acid inhibition
+Lumbar muscle strain
+Bronchial
+Vocal cord summary
+Rifampin
+Desensitization therapy
+Cerebral cortex
+Rheumatism and Immunology Department
+Variable cough
+Tumor markers
+enteritis
+burn
+flatfoot
+Topical plaster
+Folliculitis
+Platelets
+More common diseases
+Cupping
+Acute cholecystitis
+Brain atrophy
+Allergic rhinitis
+Multiple myeloma
+Pain relief medicine
+CDC
+Full Moon Face
+Cervical cancer in situ
+Sputum
+Fat sea lozenges
+Sequelae
+Men's
+Longdan Xiegan Decoction
+constipate
+aspirin
+Lung function
+Contraceptive pills
 tuberculosis
-tuberculosis infection
-tuberculous infection
-tubes
-uncertain acuity
-unchanged
-unchanged position
-unclear
-unremarkable
-upper XXXX XXXX
-upper abdomen
-upper lobe scars
-upper lobes
-upper lumbar spine vertebral body
-upper lumbar vertebra
-upper mediastinal mass
-upper mediastinum
-upper thoracic segments
-upper thoracic vertebral body XXXX
-upper thorax
-vague opacity
-vascular
-vascular XXXX
-vascular congestion
-vascular process
-vascular structure
-vascular structures
-vertebral body
-vertebral body XXXX deformity
-viral bronchiolitis
-visible
-visualized
-visualized nodule
-visualized thoracic XXXX
-volume loss
-volume overload
-volumes
-wedge XXXX deformity
-wedging
-weeks
-workup
-worsening
-wound
-x-XXXX
+Leaked
+Enzyme
+indigestion
+Gastric disease
+Urology
+Reproductive age
+Nasopharynx
+Cerebral infarction
+Ginseng Guipi Pills
+Infarction
+Dilorata film
+fever
+Hypersexual desire
+Autonomous nerve dysfunction
+后后
+Bed sores
+Heart atrium
+honeysuckle
+Anti-endometrial antibodies
+Genital warts
+Blood circulation
+Fallopian tube blockage
+Tenosynovitis
+Folic acid
+Bacus
+Necrosis
+toxicity
+Respiratory tract infection
+Cervical cyst
+La Belol
+Minimally invasive surgery
+Gingival hyperplasia
+Large lung vesicles
+Dry eye disease
+Chest X-ray examination
+Biphenylazole cream
+Pinworm disease
+Cold ingredient
+relapse
+Mosaprili
+Sputum suction
+Paleogland nodules
+Embryo discontinuation
+Pediatrics
+Prescription medications
+Viagra silver film
+Atorvastatin
+Children's ammonia chloroplasty
+Diagnosis and scraping
+Quadruple therapy
+Hepatitis B
+Albinism
+Rabies
+Atrophic rhinitis
+Corneal inflammation
+Bone
+Lift anus
+Coronary CT
+Map tongue
+trachea
+Adrenal glands
+cholesterol
+Six flavors
+Pus
+Apply outside
+Three Rheumatism
+Rheumatoid arthritis
+Viral DNA
+Pathological subtype
+Yin deficiency and fire strong
+Zinc
+Better
+Liver Qi stagnation
+Cosal chondritis
+Kelestine
+Urinary white blood cells
+Nephritis
+Gastroenterology Surgery
+Sinus
+Toe pus
+leukocyte
+Inferomand
+Onset vertigo
+Chronic tonsillitis
+Local hot compress massage
+Oral tumors
+Brain infarction
+Physiological vitreous turbidity
+pheochromocytoma
+Oral hormones
+Cholecithin
+Chondroma
+Radiation therapy
+ICU
+Endoscopy
+Urine routine
+Vitamin C
+Purulent secretions
+Ibuprofen
+Final cycle
+Skin ulcer
+Jujuen Anshen Capsules
+Hyperbaric oxygen therapy
+cancer
+Gestational diabetes
+Antel
+Atropine eye drops
+pancreatitis
+Fluorine paste
+Facial spasm
+Gastric metastasis
+Promote blood circulation and stasis
+Tired
+Reproductive system
+Miliary nodules
+Talismania
+Neurosurgery
+CT examination
+obstruction
+Tension headache
+Pathological myopia
+Revisiting
+Autonomous nerve disorders
+Viral encephalitis
+Dental pulp
+Ground area
+breast-feeding
+Urine sensation
+HIV carriers
+Urine pregnancy test paper
+Respiratory sleep disorders
+Meimanmycin tablets
+Occasional premature beat
+Thrombosis
+Epididymis cyst
+Acute gastritis
+Typhoid fever
+Nasopharyngeal Scope
+Mometasone furoate nasal spray
+Vitamins complex
+Gum cancer
+Enuresis
+Atropine detoxification
+Millimeter wave therapy
+Lansoprazole
+Viral infection
+Neurological disorders
+Pathological tissue
+MRI
+Ovarian
+abdomen
+tonsillitis
+Povidone iodine solution
+Cortex luteal cyst
+Naoxintong Capsules
+Vitamin B1
+Minoxidil
+allergy
+Dilate blood vessels
+Losolofen sodium
+FeNO
+Chest film
+Exhale test
+Lactation period
+Coptis chinensis detoxification tablets
+Wei Xikang
+Myocardial enzymes
+Blood test
+Lymph Nodule
+Low iliac arthritis
+Yunnan Baiyao Hemorrhoids Cream
+Small needle knife
+complication
+Ventral septal defect
+Blood-activated drugs
+Magnesium sulfate
+Sexual neurasthenia
+Streptococcus
+Habitual miscarriage
+Hormone therapy
+blood sugar
+Taining Shuan
+Tonify liver and kidney
+Lugu acupoint
+Cryotherapy
+CRP
+Motor neuron disease
+Fallopianitis
+Compound tropicamide eye water
+soften
+Supreme miscarriage
+Help Talin
+Meimin pseudo-histool solution
+Cut drainage
+Dehydration
+Oral solution for clearing heat and detoxification
+Rabeprazole
+Alcohol liver
+Intestinal disorders
+Thrombocytopenia
+Green branch fracture
+Bloody stool
+Right heart failure
+anaesthetization
+Block
+17OH
+Neonatal dacryocystitis
+Aldosterone
+Neuroscience
+Frequent urine
+Exclusive diagnosis
+Centrality
+plague
+pleurisy
+Loneliness
+Capillary
+Menstrual regulation medicine
+Ofloxacin
+insulin
+Inflammatory reaction
+Cetirizine hydrochloride tablets
+Viral myocarditis
+Candida infection
+Vitamin B
+Throat disease tablets
+Blood purification
+Head ct
+Chest radiotherapy
+Vaginal inflammation
+Prolactin
+Banxia Houpu Soup
+Jinsuo Sanjie Capsule
+Nutritional Neurological Medicines
+Medical history
+Digestive system
+Spontaneous sweating
+Mycoplasma infection
+Pericardium keratosis
+Oxaxantam Capsules
+Atomization inhalation
+Tetracycline tablets
+Meningioma
+Acute enteritis
+Low calcium
+tendon
+Bad breath
+Preeclampsia
+Urology Men's Department
+Ingredient blood
+Endocrine disorders
+Pulmonary artery stenosis
+Upper respiratory tract infection
+Fu Shuliang
+Red eye disease
+Secretion examination
+Decompensation period
+Thyroid nodules
+Yupingfengsan
+Infect
+Compensation to decompensation period
+Rhinitis
+Physiological
+Hemorrhoid thrombus
+metabolism
+Sexual purpura
+Gemini
+Oral vitamin B1
+Hemangioma
+Steroid hormone
+Rejuvenation film
+Yang Qi deficiency
+Isonazide
+Throat solubilizer
+Optometry
+Blood lead
+Herpes virus
+Diclofenac sodium anti-inflammatory and pain-relieving treatment
+Secondary
+Hepatitis B vaccine
+Premature atrial dysfunction
+Compensatory
+Postoperative complications
+CA199
+Hormonal eye water
+Crust block
+Hp infection
+Tuberculous pleurisitis
+diabetes
+Induce
+Punan Puling
+Terbinafine ointment
+Endometrial polyps
+skeleton
+Liver abscess
+Digestive tablets
+Stable blood pressure
+hormone
+Combined infection
+Menopause syndrome
+Eszolam
+tubal infertility
+Myocardial ischemia
+Osteogenesis
+Slowly and calmly
+Acute myocardial infarction
+Fibroids
+azithromycin
+Hyperplasia
+hernia
+Physical therapy
+Kidney function
+levofloxacin
+nerve
+Viral cold
+Grape tires
+Oxygen absorption
+Bone opening window drainage treatment
+Wind and cold
+Dakoning
+Meniere's disease
+Gyeongyawa rice inhalation
+Basic diseases
+Hyperthyroidism
+Allergic factors
+Vas deferens blocked
+斯典典
+Alprazolam
+Primary hypertension
+cervix
+Doxycycline
+Lactobacillus
+Medicine font number
+Nasal septum deviates
+Sinus arrhythmia
+Chronic obstructive pulmonary
+Neck muscles
+Venous thrombosis
+Cerebellar atrophy
+Intravenous medication
+torticollis
+Rheumatoid arthritis
+joint
+Immune indicators
+Extraurinary
+Sliding tires
+mortality rate
+Erosive gastritis
+Death
+conjunctiva
+VEGF
+Facial paralysis
+Puerpartum period
+Medium frequency electrical therapy
+Vitamin
+Electromyography
+Glycyrrhizone tablets
+Secondary hypertension
+Gallbladder stones
+Anal sinus
+Blood Copper
+Tonsill Sinking
+Skin breaks
+Lung cough
+Gastric mucosa
+pregnancy
+Gastroenterology
+Thyroxine
+Thin layer of lungs
+Ankang Letter
+Brain stroke
+Rainbow eyelid inflammation
+Flubiprofenbabu cream
+Internal Medicine
+Physical examination
+Gynecological internal examination
+Immunization vaccination
+Huoxiang Zhengqi Liquid
+Genter tube
+Alanine aminotransferase
+Unconscious loss
+Digestive system diseases
+Pectin bismuth
+OCT
+Benzoyl Peroxide Gel
+Macrolide
+Myopia laser surgery
+Neshuna
+Chronic rhinitis
+Gas poisoning
+Painless childbirth
+Gu Li
+Mercury column
+Myopia
+Too long foreskin
+Head CT
+Infrared therapy
+Transaminase
+Polyvinyl alcohol eye liquid
+Congenital disease
+Brain ct
+Vital signs
+Hemorrhagic shock
+Heart pulmonary disease
+Cerebrovascular Diseases
+Ataxia
+Blood pressure and blood sugar
+Tuberculosis
+Albendazole
+Polio
+Hydrogen peroxide
+Kidney puncture
+Cough and asthma
+deaf
+Tears
+Silence
+Cervical disc herniation
+Beauty and Changan
+Vascular inflammation
+Liver skill
+Pregnant
+Gastrointestinal motility
+Low back and leg pain
+Rosary vaginitis
+Gins
+Ovarian teratoma
+Acupoint closure
+Spinal cord vascular malformation
+Root apical inflammation
+Chaihu Shugan San
+condom
+Blood sinks
+Adenoids
+Pantoprazole
+Steroid hormones
+ADHD
+24-hour dynamic electrocardiogram
+Enzymes
+Culture and drug sensitivity
+Phenolphthalein tablets
+Blood production
+Foreskin scum
+Anti-ovarian antibodies
+Swelling lymph nodes
+Infectious diarrhea
+Lanqin Oral Liquid
+Garcinia Jiangu Pill Treatment
+Fangzhong Mutong
+Active oil
+Intermittent numbness
+Rheumatism and immune diseases
+Myocarditis
+Cerebrovascular
+Such as B1
+Filming
+White phlegm
+Hematopoietic dissemination tuberculosis
+Chalatin
+Cardiology
+Anti-inflammatory
+dermatology
+Mild whole body shape
+Colposcopic biopsy
+Aspirin tablets
+Blood palpitations
+Drug treatment
+Remove the wire
+Vasculitis
+Hemolytic anemia
+Break
+Secondary
+Rheumatism
+Moxibustion Guanyuan
+Duliang Soft Capsules
+Greyfulvin Tablets
+Hypersplenia
+Hepatitis C
+Intracranial hemorrhage
+Spinal cord injury
+Irregular menstruation
+Self-healing
+After menstruation
+Neuritis
+Kidney piercing
+Body weight index
+Loratadine
+Thyroidoma
+Compound peppermint oil
+Airway mucosal inflammation
+New film
+Compound glycyrrhizone tablets
+laryngitis
+Hormone spray
+Promote blood circulation and unblock meridians
+Axillary tuberculosis
+Autonomous function
+transplant
+Infectious
+artery
+Sulfur soap
+Electrocardiogram
+Lumbar muscle
+Central system
+Ammonia sniffing rope
+Ultrasound examination
+Calcium agent
+Rectal cancer
+Metastatic cancer
+Under the curtain
+surgical
+Central nervous system
+Targeted Therapy
+Glass body
+Peripheral nerve
+Hot card
+Yellow phlegm
+B-ultrasound
+Heart color super
+Laser therapy
+Ankylosing spondylitis
+Dampness
+Correction braces
+Compound Xuanju Capsules
+Blocked antibody examination
+Varicose veins
+Irritable
+Sequelae period
+acyclovir
+Blood transfusion indication
+Gynecological endocrine
+Xinyi Rhinitis Pills
+Long urination frequency
+anesthetic
+Vitamin B
+Spontaneous pneumothorax
+Minimally invasive
+Low potassium
+Insufficient blood supply to the brain
+Sinuosi
+Hematology
+vocal cord
+Ovarian cancer
+Nocturnal emission
+Malassezia folliculitis
+Ciliary muscle paralysis medicine
+Bronchial asthma
+Fine pulse
+Solar dermatitis
+Anti-inflammatory and analgesic drugs
+There is no end to the rest
+Biopsy
+Hematopoietic drugs
+Chronic
+Liver fibrosis
+Vein occlusion
+Rhining granules
+Standard Myrtle Oil Capsules
+Yiqing Capsules
+Stomach perforation
+Craniocerebral trauma
+Anorectal
+Anti-cardiolipin antibodies
+Rectal prolapse
+Urinary tract infection
+Buried line
+Jingling Oral Liquid
+Intestinal cancer
+Three Achievements
+Microecological preparations
+orthopedics
+Oral medicine
+Xingpi Yanger Granules
+Prostate fluid
+Abnormal vaginal bleeding
+G6PD
+Yeast Brahn
+Prognosis
+Gallstone intestinal obstruction
+Chronic allergic conjunctivitis
+Retan desensitization treatment
+Endometrial polyps
+Dio Xinxuekang Capsules
+Acute myocardial infarction
+Spray
+Endless menstruation
+External shock wave gravel
+Tire protection
+Testicle torsion
+Indomethacin puncture anal
+Liver coma
+fracture
+Baiduobang
+Premature ejaculation
+Anti-tumor treatment
+Lidocaine
+Wild chrysanthemum
+Nifedipine
+Quick-acting heart-saving pill
+Cerebral infarction
+chicken pox
+ulcer
+Berkner
+Chronic Soft Tissue Injury
+Large blood pressure fluctuations
+Retinal detachment
+Conductive deafness
+Endometrial hyperplasia
+vein
+Luotudid
+Deficiency of oxygen
+Psychological tremor
+fundus
+Recovery period
+Sensitive medicine
+Sinusitis
+Antipyretic drugs
+Valvular lesions
+B vitamins
+Antibacterial drugs
+External eczema
+Tinymus
+pleura
+Contraindications
+cold
+Pale tongue
+High airway reaction
+Allergic foods
+Adrenal tumors
+Pelvic inflammation
+B Super
+brain
+Non-safe period intercourse
+Irisitis
+Urology
+Abscess
+Benign lung disease
+Mycoplasma pneumonia
+Pharial sensitivity
+Pancreatic head cancer
+Incidence
+Hepatitis B
+Pishen Liangzhu Pills
+Raf Water
+Cirrhosis
+asthma
+Xiaoyao Pills
+Congenital
+Fungal smear
+Remission period
+Oral odor
+Menstruation
+Nepson
+Dafvin Gel
+Fresh
+Autosomal dominant hereditary disease
+Inner ear vestibular receptor
+Amniotic sac
+Vomit
+Compound azinemite enteric-coated tablets
+Orthosis
+Bracket
+Regression
+Gonococcal
+veg
+Blood fat
+Lung cancer
+Antiemetic medicine
+Fat sea
+Bacterial infection
+Pregnancy
+Lower abdominal wall
+Chemoemoembolism
+Aluminum magnesium plus suspension
+Lymph Node Tuberculosis
+Muscle atrophy
+Anti-anxiety medications
+Pulse
+Gastrodia elatin capsules
+Refuse yellow
+Organic diseases
+Artificial cycle
+Cetirizine
+Lower enzymes
+Acid body
+Knee joint
+sudden death
+Oral antibiotics
+Intrauterine oral
+Montelukast
+Deficiency of the body
+bladder
+Genetic testing
+Brain perfusion
+Impotence
+tuberculosis
+Nasal congestion
+high fever
+Brain microcirculation
+Avian flu
+Sinus CT
+White lochia
+Alcohol poisoning
+Immunohistochemical examination
+Pudilan anti-inflammatory oral liquid
+Enhanced CT
+Acupuncture
+Secretion
+Active bleeding
+Lungs
+Keratoconus
+Lupus erythematosus
+Lumbar and back muscles
+ovulation
+Kawasaki disease
+To fight arrhythmia
+Bone marrow apuncture
+Partial closure
+Nonsteroidal drugs
+Lepiglon
+pulmonary disease
+Anti-tuberculosis drugs Anti-tuberculosis drugs
+Bansai ointment
+Renocote
+puncture
+hepatitis
+Interstitial fibrosis
+Microcirculation
+Follicle development
+Clarin
+Acoustic neuroma
+Endocrine factors
+Compressive injury
+Dynamic ECG
+Androgen
+hemophilia
+Stem cell transplantation
+Pycotosis
+Globulin
+inner ear
+Interphalangeal arthritis
+Granopenia
+Benign lesions
+naked eyes
+testis
+Gastroscopy
+Consolidation treatment
+Defence station
+Duodenal diverticulum
+Dynamic blood pressure detection
+Ofloxacin gel
+placenta
+Throat tablets
+ASO
+Prostate color super
+Tonsill inflammation
+Myocardial enzyme examination
+exhaust
+Purine metabolism
+Abdominal aortic dissection
+Corneal lesions
+Regulate blood
+Intrahepatic bile duct
+Radial nerve
+Enteric-coated aspirin
+Concussion
+Bei Fushu
+d dimer
+Pelvic fluid accumulation
+X-ray
+Clear heat and cool blood
+fever
+Levocetirizine
+Statins
+AST'ALT
+Antibody detection
+Premature beat
+Sexually transmitted diseases
+Lymph nodes
+shock
+Endocrinology Department
+Urinary and reproductive system
+Radioactive examination
+Low purine
+Acetyl Gastroentin Tablets
+Chronic endometriitis
+Sepsis
+tendon
+Abdominal cavity
+Acid reflux water
+Neurovascular
+Pus head
+Metronidazole
+Sodium Hydrochloric acid eye liquid
+Body odor
+Vascular neurological
+Abdominal transverse fascia ova
+Excessive heart fire, internal resistance to damp heat, gastrointestinal heat accumulation
+Rhodopsin
+Yumei sustained release tablets
+Collagenic disease
+Down the urinary tract
+Small cell lung cancer
+Sinusectomy
+Offline
+MRCP
+Compound Aminophen Huangnamin Granules
+More nocturnal urination
+Subcutaneous ring
+Intracranial
+Dump
+Blood-activating pain relief cream
+arthritis
+Throat cancer
+Throat
+massage
+Perforation of the nasal septum
+bSuper
+Perry Soft Ointment
+Reflux esophagitis
+Omeprazole enteric capsules
+Probiotic preparations
+Floating mosquito disease
+encephalitis
+Tacrolimus paste
+Ectopic pacing point
+Lugek
+External ear canal
+Tongue moss
+Lumbar muscle strain
+Keratoitis
+Yi Shanfu
+Pus flow
+Methylcobalamin tablets
+External otitis
+Heart ventricular
+Ischemic injury
+Probiotics
+Dailixin
+Sterile
+Residue miscarriage
+Fight cancer
+Take off the net
+Viral infection
+Cimetidine tablets
+Cervical cancer
+Urinary stones
+Nitroglycerin
+Infusion antibacterial
+choline
+Local cold
+Cold clearing granules
+Urinary system
+Neurofibroids
+Antiviral drugs
+Liver and gallbladder
+Pregnancy
+Intestinal worm clearance
+EB virus
+Gastric acid
+Dislocation
+Carmazepine tablets
+Powered drugs
+Upper gastrointestinal barium meal perspective
+Chest opening surgery
+Hydroxychloroquine
+Ketotifen Fumarate Tablets
+Ketoconazole lotion
+benign
+hematuria
+Gastrointestinal diseases
+Muscle spasm
+Nephrotic Syndrome
+polishing
+Urinate blood
+Colonoscopy
+Acute pharyngitis
+Herpes pharyngitis
+Compound Scutellaria baicalensis Tablets
+Lower artery
+Lotus Qingbai
+Menstrual passage
+Voice cord polyps
+Shuna nasal spray
+Look up from both eyes
+Hypokalemia
+Acute gastroenteritis
+Skin weakness
+Antibody
+Liver disease
+Myelodysplasia
+vaginal
+Cellulose
+Perison Cream
+Anal fissure
+Dexamethasone
+Allergic
+Brain replenishment fluid
+Polycystic kidney
+Ball fluid
+External nose
+Craniocerebral CT
+Pulmonary infection
+Blood white blood cells
+Uneven heart rhythm
+Nose-relief tablets
+Chondroitin sulfate
+Pulling injury
+dizziness
+Brain-Healing Film
+Cerebral hemorrhage
+Highlight disc
+Peripheral vertigo
+dermatitis
+Anorectal
+Dermatology clinic
+Imaging
+Knee pain
+Wind, cold, dampness and evil energy
+Bite transmission
+Fetal protection drugs
+Blood supply
+Inflammation
+stomach ache
+Traditional Chinese Medicine Gynecology
+Yin deficiency and internal heat
+Bacterial
+Cerebrospinal fluid leakage
+Cardiovascular clinic
+Drug rinsing
+Atherosclerosis
+Brain function
+Broad bean disease
+Hydrogen
+Hemorrhagic fever
+Premature baby
+Heart function
+Infertility
+Deficiency of stomach qi
+Scleritis
+Intracranial infection
+Hepatic protection and enzyme reduction treatment
+dementia
+Case cavity
+Bacterial infection
+Cholecystectomy
+Nasal secretions
+Tuberculosis
+Duodenal ulcer
+Body examination tenderness
+Hypertensive cerebral hemorrhage
+Certificate
+Plantar fasciitis
+Antipyretic needle
+Digestive tract
+Dispel weathering and dampness
+Primary
+cough
+Polycystic ovary syndrome
+Pain relief
+Cardiac edema
+Body luteal
+Oxygen therapy
+Leprosy
+Xiaojin Pill
+Plyboard
+Head magnetic resonance
+Blood pressure monitoring
+Abscess culture
+Spread
+Shortness of breath
+Tuberculosis
+Lower turbinate hypertrophy
+Compound tropicamide eye drops
+Calcium oxalate stones
+Intravenous nutrition
+Baiduobang ointment
+Tongue cancer
+Cervical spondylosis of nerve root
+Sleep disorders
+Endometriitis
+Moxa stick
+Gastrointestinal tract
+Breast glands
+Pyrazinamide
+Lung interstitial
+Cermus ointment
+Physical cooling
+Chinese patent medicine
+Intermittent pain
+Acute period
+Bright eyes
+Traumatic eardrum perforation
+Roryromycin
+Secondary epilepsy
+Allergen
+Hormone cream
+tonsil
+Self-limiting disease
+spine
+Lymphoma
+Sebaceous cyst
+HIV
+Heat-clearing and detoxifying drugs
+ophthalmology
+Mold otitis external
+Atrial septal defect
+Craniocerebral
+spinal cord
+Rheumatism
+Erythromycin cream
+Qi deficiency, dampness and heat constitution
+Metronomiconductor
+Combined liver atrophy
+Benign positional vertigo
+Omeprazole
+Antipyretics
+Endocrine system
+American ginseng
+Pus blood
+Bloody stool
+Coronary heart disease
+Children's acute rash
+Psychological therapy
+Gastric mucosa
+Allergic dermatitis
+HcG2000u
+Respiratory Medicine
+Vitamin B2
+Replenishing fluid
+Stop menstruation
+Gynecological clinic
+Tumor bone marrow
+Helicobacter pylori
+Anticoagulation and stabilization of intravascular patches
+Kaiser
+Organ tissue
+Antihypertensive drugs
+Facial nerve damage
+Shenling Baizhu Powder
+Ectopic conduction pathway
+ARB
+Cervical disc eccentric
+Blood glucose meter
+Diaphragm spasm
+Direct inguinal hernia
+laser
+Sudden deafness
+Nutritional nerves
+Parkinson
+Spleen and stomach dampness
+Infusion
+Cavity visceral
+Esophageal cancer
+Pigmented mole
+Futalin ointment
+Postoperative reexamination
+Anti-tuberculosis treatment
+Neurology
+Fungus
+Urinary tract infection
+Natural childbirth
+Vaginal delivery
+Upper limb
+Airway mucosa
+Arteriovenograph
+Intravenous medication
+Methylcobalamine
+pylorus
+Expectant phlegm treatment
+Chronic prostatitis
+Otolaryngology
+Chinese herbal medicine
+Silvery yellow scented tablets
+Old tuberculosis
+Heart disease
+Plastic Surgery Department
+Allergic sources
+Mouth gargle
+Atrial fibrillation ablation
+Vascular headache
+Pelvic cavity
+Coronary angiography
+rhinitis
+Psychological counseling treatment
+Heparin treatment
+Hair branch
+Hot compress physiotherapy
+depression
+Intestinal bacteria
+External mouth
+Causes
+Blood indicators
+Otitis media
+Stagitis
+A lot of sparseness is added to the
+clinical
+Lung Diseases
+Rhinoplasty
+Myocardial muscle
+Xilebao
+Mild allergic to dust mites
+Somatostatin therapy
+Tedema
+jaundice
+Hp check
+Omeprazole'
+Finn
+Secondary infertility
+Treatment of hypertension
+Ginseng and Poriasis
+Kidney stones
+Exudate
+Sulfur ointment
+Nocturnal emission premature ejaculation
+Desensitization drugs
+Salvia tablets
+liquefaction
+Neck and shoulder muscles
+Rabies vaccine
+Neurology
+Hernia ring
+Facial neuritis
+Small cell lung cancer
+Cranial pressure
+Adenoid hypertrophy
+Basket quality
+Blemycin
+Focused Ultrasound
+pneumothorax
+Comprehensive treatment
+rubella
+Varcocele
+Neurocystic activity
+Alcohol
+Thick turbinate
+Full cut
+Relieve heartache
+Liposarcoma
+Capillary nevus
+Antiviral treatment
+Mumpitis
+Levocetirizine oral liquid
+Protein urine
+Vaginal relaxation
+Osteosarcoma
+Food accumulation
+Hypoproteinemia
+Brain nervous system
+Huang Lian
+Type 1 diabetes
+Medal dilation examination
+Plum core gas
+Antibiotics
+Anti-inflammatory drugs
+Wind-heat cold
+Omeprazole plus intestinal production
+Cervical vertebrae
+Laser freckle removal
+Laser acoustic polypsectomy
+HLA_B27
+Anti-infection treatment
+Manual reset
+Perianal infection
+Intravaginal diagnosis
+Nutritional cartilage
+Simida powder
+Lethargy
+Dizziness
+Femoral head necrosis
+eyeball
+Tuberculous
+Otolithiasis
+Lesion
+Cervical stenosis
+Danshen Drop Pills
+Qumei Pudding
+Compound Methoxynamin Capsules
+Craniocerebral ct
+Inflammatory adhesions
+Cefaclo
+Neck muscle
+Anti-inflammatory
+Pleural adhesion
+grease
+gout
+Inguinal hernia
+Brain joy
+Balanitis
+Antifungal drugs
+Vascular nerves
+Antibiotic eye drops
+Developmental period
+Mosapride promoter
+Phenylalanine
+Hip joint
+Tears' eyes
+Enteric aspirin and his orders
+Anti-allergic drugs
+inflamed
+Myocardial bridge
+Static stones
+Liuwei Dihuang Pills
+Lymphological cancer
+Prolapse
+Prostate cancer
+Sandblasting
+sexual intercourse
+Hypothala
+Blood transfusion
+gastritis
+Abdomen gets cold
+Qu'anade
+tetracycline
+Yang Qi
+Yanning Granules
+Vitamin B1
+Genetic diseases
+traditional Chinese medicine
+Polyethylene glycol eye fluid
+ppb
+Urticaria
+Wisdom teeth
+Prevent attacks
+Hot cold
+Pathological
+Electrolyte
+Coronary artery dilation
+Suboriental artery of the abdominal wall
+Pus
+Slow maternity
+Ultra short wave therapy
+Inguinal hernia
+Chronic osteomyelitis
+Decreased sense of smell
+Neurological headache
+Antipyretic agent
+Levo
+Iodine
+Swelling of lymph nodes
+Atherosclerotic plaques
+Abortion
+throat
+Flucinarizine
+Esophageal mucosa
+Lindan cream
+Rheumatoid arthritis
+respiratory tract
+Atrial flutter
+Blood vessel
+Common bile duct
+liver, gallbladder, spleen ct
+Blood uric acid
+Massage
+Periconatal inflammation
+edema
+Closed needle
+Tendon sheath
+Vision fatigue
+Hypothyroidism
+Migraine
+contraception
+Radiotherapy
+Bathing
+Lijunsha 0.375
+Systemic chemotherapy
+Hydroscopic
+Gastrointestinal
+Source of infection
+Alcoholic cirrhosis
+Bifidobacterium
+hemorrhoid
+PDT laser therapy
+freckle
+Electrolyte disorder
+Astragalus
+Thrombolytic therapy
+body fluid
+XCT
+Palsysin desensitization treatment
+Thyroid function
+Viral feeling
+Lymph clump ablation
+Androgen
+Oxidation
+Multiple arteritis
+Vestibular neuron inflammation
+Vaginitis
+Cerebrospinal fluid
+Nasal endoscopy
+Taining ointment
+astigmatism
+osteomyelitis
+Hypoxic ischemic encephalopathy
+Scoliosis
+Hemoglobin
+Intermenstrual bleeding
+Chronic inflammation
+Conservative treatment
+Clindamycin gel
+Gastrointestinal cold
+Hepatobiliary duct
+Anti-tuberculosis drugs
+Self-healing
+Adapalin gel
+Massage
+Targeted treatment of lung cancer
+Lung fever
+Mesenteric lymph nodes
+Ejaculation of the lung
+foreskin
+Jinxuli Yephrine Pills
+Qinghuo Gardenia flakes and rosycin
+Endometriosis
+Spontaneous facial nerve palsy
+Gastrointestinal dysfunction
+Anti-inflammatory and pain-relieving drugs
+Zinc utensils
+Infectious Disease Hospital
+Noninvasive DNA
+Tube wall inflammation
+Fetal motion disturbance
+Hyperlipid
+Blocking antibodies
+Room shortage
+Gastrointestinal diseases
+Mekaso
+toothache
+Hyperventilation syndrome
+Electrogram examination
+Marrow cavity
+Wei Xiaoyao Pills
+Incubation period
+Cervical spine
+Alkalosis
+Ultrasound
+tinea foot
+epilepsy
+Tuberculous meningitis
+Podophyllum toxin tincture
+If creatinine
+EP plan
+pneumoconiosis
+Physiological mutation
+Early treatment
+Sanjiu cold
+Hepatitis B DNA Quantification
+Corneal resizing mirror
+Nonsteroidal anti-inflammatory drugs
+Topical medicine
+Thyroid hormone
+Functional gastrointestinal disease
+A merit
+semen
+Sustainable nasal spray
+Acupoints
+Infectious Discipline
+Chest and knee
+Chronic bronchitis
+Dialectical treatment
+High metabolic constitution
+Congenital heart disease
+Neurological pain
+Masturbation
+Hammaroma
+High purine food
+Vestibular abscess
+Xitili Qin
+Magnesium Aluminum Carbonate
+Gastric torsion
+Chest tightness
+Liver and kidney syndrome
+Adult tongular neck
+Pediatric virus infection
+Amputation
+Chronic metabolic disease
+meningitis
+Radio frequency
+Chlamydia
+Baiduobang ointment
+Nebulization treatment
+Excessive fatigue
+cataract
+Adapalin's suspicion
+Pyelonephritis
+Chronic cervical flame
+Syndrome
+Tacrolimus
+Fungal infection
+Renal artery
+arteriosclerosis
+Evil changes
+intervention
+Lung nodules
+Contact sexually transmitted diseases
+Uremia
+Diseased muscles
+Use injections to inhibit acid
+Undifferentiated connective tissue
+Sjogren's syndrome
+Chemotherapy
+999 Cold Granules
+Fluconazole tablets
+Ibuprofen
+Immunoglobulin
+Auxiliary artificial tears
+Gallstones
+Prednisolone eye drops
+Cerebral ischemia
+Cold urticaria
+Chronic hypertrophic rhinitis
+Bullus removal
+leukemia
+Liver cancer
+Surgical intervention treatment
+Neurasthenia
+Zhibai Dihuang Pills
+Headache
+Glacial liquefaction
+scleroderma
+Few menstrual passage
+Drug sensitivity test
+Diclofenac sodium suppository
+Blood stasis
+Acute gastric perforation
+Gingivitis
+Ascites
+Reduce fever
+Meat jump
+External reversal technique
+penicillin
+Replenish blood
+amitripirine
+Operation
+Physical male
+Radiation and chemotherapy
+Gastrointestinal Diseases
+Left Piclon
+Nasal polyps
+Vitamin ad drops
+Sophora ginseng
+Antiviral drugs
+Reynold Court Nasal Spray
+Rheumatology
+Anal fistula removal
+Stomach polyps
+Pupil dilation
+Reflective contraction
+Zhishu Kuanzhong Capsule
+Uterine fibroids
+Allergens
+Ventricular hypertrophy
+Sub-health
+Dexamethasone liniment
+Hemorrhoids
+Growth factor
+Upper respiratory tract
+Blood exchange
+Children's fever thrombus
+The medicine
+Alcoholic liver disease
+Kidney disease
+Infertility
+Neck strain
+Bleeding
+Vocal cord inflammation
+Convex eyes
+Wind and heart disease
+Rheumatoid
+Itraconazole
+Nervous system
+Lipstick
+pharyngitis
+Positive
+Artificial urticaria
+Compound
+Chronic conjunctivitis
+Malignant hematologic diseases
+Rapid syrup
+Mingmu Dihuang Pills
+Polyps removal
+intestinal obstruction
+Spasm
+Testicle pain
+Lumbar spine
+Normal saline
+Cardiovascular and cerebrovascular diseases
+Plantar tendon membrane
+moisture
+Chest pain
+Carbon monoxide poisoning
+Hand, foot and mouth severe
+Skin test
+Phenylalanine blood value
+Neurology consultation
+Tics
+microscope
+Pulse dissolution
+anus
+High fever convulsions
+Kidney Qi deficiency
+Tintos
+Urine
+Saddle Zone Enhanced Magnetic Resonance
+Easy to shock
+Electrical stimulation of the sacral nerve
+MRA
+Zolpidem
+Dilated cardiomyopathy
+Night blindness
+Vitiligo capsules
+Ovarian cyst
+Life Gate
+Physical therapy rehabilitation
+Warts
+nausea
+Corneal cloud
+Spirolactone tablets
+endocrine
+Genetics
+cholecystitis
+Qi deficiency
+AIDS
+Vitamin Ad
+ACEI
+Hormone sensitivity
+Total blood
+Pulmonary squamous carcinoma
+Department of Men
+Anal muscles
+Vein reduction
+Cerebrovascular accident
+Closed injection
+Renal tuberculosis
+Adrenal placeholder
+Anti-infective drugs
+Urine volume
+Dental department
+Four-food soup
+Blood circulation
+Electric burns
+fetal membrane
+Coronary artery
+Chole duct cancer
+Lung repair
+Little hemangioma of the liver
+Weak hormone
+blood pressure
+Breast hydration
+Asymptomatic hypertension
+Glucocorticoid
+Blood lysis
+Neforda
+Targeted drugs
+Amniotic fluid embolism
+Tooth decay
+Atrial fibrillation
+Benign tumors
+HCG
+bacteria
+Cell mutations
+Fatty liver
+Parkinson's syndrome
+Gynecology
+pulse
+Cyst
+Relieve swelling
+Metronidazole suppository
+Vitamin B complex
+Netifenone Conazole cream
+measles
+Vaginal secretion fluid
+polyp
+Solar fasciitis
+Vitamin B12
+Spleen and stomach
+Panic
+Compound ketoconazole cream
+syphilis
+Puncture biopsy
+Right ventricular hypertrophy
+Slurry lochia
+Balanitis
+Weak hormone ointment
+Divine Path Electrophysiology
+Head injury
+Myocardial biopsy
+Chronic nephritis
+Viral keratitis
+Mucosmembrane
+Oral ulcers
+Cerebral thrombosis
+Cough variant asthma
+Esophageal leiomyoma
+Antihypertensive drugs
+Stroke
+Heat therapy
+Metabolism
+Feelings of the best
+Magnetic resonance
+Drug poisoning
+Pikang King Ointment
+Turn over test
+Expired date
+dry cough
+Hot compress
+Pudilan anti-inflammatory tablets
+Intracranial Qi accumulation
+tinnitus
+It's routine
+Health
+Radiotherapy
+shallow groin ring
+Compound preparation
+septicemia
+Zinc oxide ointment
+chronic
+Spontaneity
+pathology
+Lesion
+Peripheral neuritis
+Nasal mucosa
+End circulation
+X-ray film
+Nasal wash
+Quick-acting cold capsules
+Weifuan tablets
+Aspirin
+Gene
+Acyclovir eye fluid
+Ischemic
+brine
+Medicine flow
+Golden Flower Qingshen Granules
+Trace elements
+Moisturizing cream
+Increased blood lipids
+Livrolet
+Eye injection
+Insert
+Western Medicine Men's Department
+Optic nerve
+Disability rate
+Skull base
+Vascular malformation
+Pustules
+plasma
+Renal artery stenosis
+Oral spray
+ppd
+Pancreatic cancer surgery
+Secondary prevention
+Umbilical inflammation
+Treatment
+Cluster headache
+Developmental period
+Calcium interstitial seedlings
+Medical Instruction Station
+Immunity
+Vitamin B6
+Mold vaginitis
+Tumor
+Kidneyshu
+Shrinkage
+Anaerobic bacteria
+Closed
+Dolls
+Acne marks
+Lung abscess
+Antibacterial drugs
+Talking to Baishi
+hypertension
+Congenital heart disease
+pituitary
+Deep ring of inguinal canal
+Traditional Chinese Medicine
+acne
+Seawater salt spray
+Cod liver oil
+Brain cells
+Retinoic acid ointment
+Neuropathy
+Promote blood circulation and remove blood stasis
+Epiphany
+Uterus
+Peripheral blood vessels
+Yunnan white medicine
+Blood pneumothorax
+Conjunctivitis
+esophagus
+esophagus
+levofloxacin eye fluid
+Electrocardiogram
+Palate sores
+Erythromycin ointment
+Allergic rhinitis
+Pharyngitis
+Pulmonary encephalopathy
+Malnutrition
+Insomnia
+Abnormal liver function
+Otol
+Glue liquid
+Joint deformities
+Membrane nephropathy
+Congenital factors
+Regulate intestinal bacterial balance
+Endocrine diseases
+Radio frequency ablation
+Primary disease
+Joint disorders
+Internal hemorrhoids External hemorrhoids
+Cancer
+Wet macula
+Cervical traction
+Breast milk
+Malignant tumors
+Heart function incomplete
+thrombus
+gastroscopy
+Chronic pharyngitis
+Original
+Local radiotherapy
+Primary cardiomyopathy
+The peace of mind
+Sterile inflammation
+Urine protein
+prostatitis
+oral
+Nasal vestibular cyst
+Psychology
+Antituberculosis treatment
+incision
+Palmia scalp
+Congenital adrenal hyperplasia
+Bernardine
+nasal cavity
+Slipping pulse
+Neck and waist muscles
+Zinc agent
+Aortic dissection
+Old Tuberculosis
+immunity
+Toxemia
+Humidity and heat
+gallbladder
+Phenylketonuria
+acute
+Hepatic artery
+Tumor markers
+Frequenturia
+Boric acid alcohol ear drops
+Cervical joint dislocation
+Tebinafin liniment
+Nasal drops
+Brain circulation
+Prothrombin
+Ribitis
+Allergic constitution
+Arrhythmia
+Optic nerve fibers
+Ribavirin
+Nursing
+Sinus tachycardia
+Lower laryngeal scope
+Vascular stenosis
+Blood flow rate
+Yan Jianning film
+Abnormal discharge
+Retinal rod-shaped cells
+Prolactin-type pituitary tumor
+Anti-epileptic drugs
+Vitamin B group
+Perianal abscess
+Kidney cancer
+Brake rest
+Ophthalmology clinic
+Greenbarre syndrome
+Epiglottis
+scrotum
+Mediastinal tumor
+Infectious Disease
+Atomized bronchodilator
+Vulvar itching
+Connective tissue disease
+Allergic reactions
+Inserting the nerves
+Jinkui Shenqi Pills
+Stimulants
+Lower limbs
+eczema
+Scar constitution
+Obstetrics and Gynecology
+Sulfur aluminium
+Cold medicine
+Cervical erosion
+Ginkgo Leaf Capsules
+Lymph node nuclei in children
+Vulvar cancer
+Menstruation is irregular
+Compound Aminophenyl Alkane
+NMR
+Keratosis
+Antidepressants
+Hyperphenylalanineemia
+Mitral valve plasty
+Bloody leukemia
+peritonitis
+Purpura kidney
+Creatinine
+Dynamic blood pressure monitoring
+Progesterone
+Ethaminebutol
+Intestinal dysfunction
+Pruritus in the skin
+Mycoplasma
+White mercury ointment
+Youjiale
+Mucosmeceutical
+Reflux
+Pulmonary valve stenosis
+Qing Palace
+Nephrology
+Hemorrhagic
+Waist pants
+Lactulose oral liquid
+Twisted intestinal obstruction
+stomachache
+Psychiatric Department
+High pressure oxygen
+Amoxicillin
+Premenstrual headache
+Gynecological inflammation
+Vitrosis
+Ganoderma lucidum
+Epilepsy
+Vascular nevus
+infectious disease
+Neonatal
+Benign diseases
+Liver and kidney function
+Hormone inhalation
+Stomach bloating
+Gastroduodenal perforation
+Intravenous anti-inflammatory treatment
+Blood coagulation
+Peritonsil abscess
+Psoriasis
+Placenta delivery
+Lower urinary tract infection
+Moxibustion and cupping
+Cancer tumor cells
+Neuropsychiatric department
+Tobicamin eye drops
+Running tears
+Re-examination
+Surgical treatment
+Kidney Yin Deficiency
+Diuretic dehydration
+plaster
+Pityriasis
+X-film
+Headache
+stone
+Lipoma
+Nasculola
+Air conditioner disease
+Uric acid
+Acute appendicitis
+High blood
+Brain edema
+Tartar
+Carbonoxyhemoglobin
+Look, hear, ask, touch
+Cover
+Common diseases
+Hepatic hemangioma
+Anal sinusitis
+Organs
+physiotherapy
+Neurocompressive numbness
+abortion
+Pediatric tics
+Osteoporosis
+Closed chest drainage
+nourish
+Side protrusion
+Energize blood
+Allergic pharyngitis
+Epididymisitis
+Tears
+infarction
+Gynecological color super
+Sperm search
+Typhoid cold
+Blood routine
+asthma
+Bone chain deformity
+Clinical hypertension
+Ovarian gonadal axis system
+Optic neuritis
+Diphtheria carrier
+Lumbar disc herniation
+Dragon Ball Ointment
+Cerebral palsy
+The Spirit of Mai
+Endoscopy of ear
+Weak color
+Fat
+Receptor
+Anti-sperm antibodies
+Walitin
+Repeated respiratory infections
+Vitamin A
+Acute pyelonephritis
+Water accumulation
+Immune infertility
+Acupuncture and physiotherapy
+Cesarean section
+Futalin ointment
+Yaoyangguan
+tct
+Trimebutin maleate tablets
+Cephalospore
+Peripheral nerve damage
+CT
+Virus
+Echocardiography
+Sensitive antibiotics
+Hydroxymetazoline
+Urinary tract
+Heart palpitations
+Sit bone
+Liver function
+pneumonia
+Angiography
+Gastrointestinal mucosa
+Sanjiu Cold Spirit Granules
+Andros
+Lead discharge
+vulva
+hemorrhoid
+The uterus is old
+Digestive medicines
+Prenatal inspection
+Closed pimples
+assay
+Clear fire branches oatmeal
+diarrhea
+scar
+Breast clinic
+Anti-inflammatory and analgesic
+Molluscum contagiosum
+Sinus arrhythmia
+Gastroenterology
+anemia
+Irritable bowel syndrome
+Breast refusal
+Heart failure
+Eye pressure
+Nemodiping
+Loratadin
+Fushuliang nasal spray
+Nuclear magnetic
+Iodine tincture
+pelvis
+Branch expansion
+Tylenolin
+Hard stool
+Premature pregnancy
+Source of pollution
+Tradition
+Swelling gums
+Pregnancy
+Compound Xuanju
+Rheumatism and immunity
+Nasal hormone spray
+Neurological damage
+Sand eye
+thyroid
+Preparing for pregnancy
+Agile
+Licorice slices
+Phimosis
+Acute rhinitis
+Color Super
+childbirth
+Vitamin C
+Sex hormones
+Cervical polyps
+Test paper
+Sedational drugs
+Traditional Chinese Medicine Hospital
+Cerebrovascular disease
+Mitral valve stenosis
+Mycoplasma antibody titer
+Cerebral artery artery stenosis
+PCI
+ascites
+Meiduo
+Cephalosporins
+Flat warts
+Head imaging
+Patriline liquid
