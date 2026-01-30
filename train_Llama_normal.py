@@ -159,6 +159,10 @@ class LlamaFineTuner(pl.LightningModule):
 
         self.log("train_loss", loss, prog_bar=True, on_step=True, on_epoch=True)
         return loss
+
+    #def _step(self, batch, training_mode=False):
+    
+     
     
     
     def ids_to_clean_text(self, generated_ids):

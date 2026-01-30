@@ -178,15 +178,13 @@ class LlamaFineTuner(pl.LightningModule):
             attention_mask=batch["attention_mask"],
         )
 
-        logits = outputs.logits  # [B, T, V]
-        labels = batch["labels"] # [B, T], -100 masked
+        logits = outputs.logits  
+        labels = batch["labels"]
 
-        # SHIFT Logits and Labels (CRITICAL STEP)
-        # We predict the NEXT token, so we remove the last logit and the first label.
+        # shift Logits and Labels 
         shift_logits = logits[..., :-1, :].contiguous()
         shift_labels = labels[..., 1:].contiguous()
         
-        # Define V (vocab size) based on shifted logits
         V = shift_logits.size(-1)
 
         loss_tok = torch.nn.functional.cross_entropy(
@@ -194,11 +192,9 @@ class LlamaFineTuner(pl.LightningModule):
             shift_labels.view(-1),
             reduction="none", 
             ignore_index=-100
-        ).view_as(shift_labels)  # [B, T]
+        ).view_as(shift_labels)  
 
 
-        # build medical mask from **label ids**
-        # medical_vocab_ids: 1D LongTensor buffer registered in __init__    
         with torch.no_grad():
             med_mask = torch.isin(shift_labels, self.medical_vocab_ids) & (shift_labels != -100)
             neg_mask = torch.isin(shift_labels, self.negation_vocab_ids) & (shift_labels != -100)
