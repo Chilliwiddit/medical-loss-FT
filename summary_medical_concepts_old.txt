@@ -1,671 +1,671 @@
-AP
-Abdomen
-Abdomen 1
-Abnormal
-Abnormal configuration
-Acromioclavicular separation
-Acute cardiopulmonary disease
-Acute obliquely oriented lucency
-Age indeterminant
-Age-indeterminate
-Age-indeterminate fracture
-Air-fluid level
-Airspace
-Aortic tortuosity
-Apical capping
-Apparent old
-Apparent scarring
-Appearance
-Approximately
-Asymmetric left suprahilar opacity
-Atypical
-Atypical infection
-Bandlike opacities
-Basilar
-Basilar atelectasis
-Biapical opacities
-Bibasilar
-Bibasilar airspace disease
-Bibasilar airspace opacities
-Bibasilar atelectasis
-Bibasilar atelectasis/infiltrate
-Bibasilar bandlike opacities
-Bibasilar opacities
-Bibasilar pneumonia
-Bibasilar subsegmental atelectasis
-Bihilar
-Bilateral
-Bilateral airspace disease
-Bilateral effusions
-Blunting
-Bone scan
-Bony structures
-Borderline
-Borderline cardiomegaly
-Borderline enlarged heart
-Borderline enlargement
-Borderline heart size
-Buckling deformity
-Bullous disease
-Bullous emphysema
-CABG
-COPD
-CT
-CT chest
-CT scan
-CT thorax
-CTA
-CXR
-Calcified left coronary arteries
-Calcified left paraesophageal
-Cardiac XXXX
-Cardiac defibrillator
-Cardiac pacemaker
-Cardiac pacing
-Cardiomegaly
-Cardiomegaly 2
-Cardiomegaly/pericardial fluid
-Central pulmonary vascular congestion
-Changes
-Chest
-Chest 1
-Chest CT
-Chest radiograph
-Chest radiograph 1
-Chest x-XXXX
-Cholelithiasis
-Chronic
-Chronic changes
-Chronic interstitial lung disease
-Chronic interstitial pattern
-Chronic lung
-Chronic lung disease
-Chronic obstructive pulmonary disease
-Chronic parenchymal
-Chronic right middle lobe scar
-Circumscribed structure
-Clavicle
-Clear lungs
-Cleared left lower lobe airspace disease
-Clinical correlation
-Compared
-Comparison
-Concern
-Congestive heart failure
-Considerations
-Constellation
-Contrast-enhanced XXXX examination
-Core irregularity
-Correlate
-Correlation
-Correlation XXXX scan
-Corresponds
-Critical result
-Crowded
-Date
-Decreased
-Decreasing
-Decreasing right pleural effusion
-Decreasing right upper lobe cavity
-Degenerative
-Developing heart failure
-Developing left upper lobe consolidation
-Dextroscoliosis
-Diagnostic considerations
-Diffuse fibrosis
-Diffuse interstitial lung disease
-Diffuse reticulonodular pattern
-Dilated pulmonary arteries
-Discrete XXXX projectile
-Distal tip
-Dr. XXXX XXXX
-Dr. XXXX XXXX I
-Dr. XXXX XXXX telephone
-Dr. XXXX- XXXX
-Dual-XXXX
-Ectatic aorta
-Elevated left diaphragm
-Elevated left hemidiaphragm
-Elevated right hemidiaphragm
-Emphysema
-Emphysematous changes
-Endotracheal tube
-Enlarged cardiac silhouette
-Enlarged pulmonary arteries
-Enlargement
-Epigastric
-Evaluation
-Evidence
-Exact etiology
-FRONTAL/LATERAL
-Feeding tube tip
-Femur
-Findings
-Focal airspace disease
-Focal area
-Focal atelectasis
-Focal density overlying
-Focal opacity
-Followup
-Followup chest
-Followup exam
-Followup radiographs
-Fracture
-Fracture deformity proximal right humerus
-Fracture-dislocation
-Fractures
-Generalized low lung lungs
-Hand 1
-Haziness
-Heart failure
-Heart size
-Hiatal hernia
-High-resolution XXXX
-Hodgkin's lymphoma
-Hyperexpanded
-Hyperexpanded lung XXXX
-Hyperexpanded lungs
-Hyperexpansion
-Hyperinflated
-Hyperinflated lungs
-Hyperinflation
-Hypoinflation
-Hypoventilated
-ICD
-ICD/pacemaker
-IV contrast
-Ill-defined oblong
-Ill-defined opacity
-Improving
-Increase
-Increased
-Increasing
-Indistinct vascular margination
-Interstitial markings
-Interstitial prominence
-Interstitial pulmonary edema
-Interval
-Interval CABG
-Interval central catheter exchange
-Interval development
-Interval enlargement
-Interval followup
-Interval improvement
-Interval left subclavian
-Interval placement
-Interval removal
-Interval resolution
-Interval worsening
-Irregular
-KUB
-L2
-Large left lower lobe opacity
-Leads
-Left
-Left ankle
-Left base
-Left base airspace disease
-Left base atelectasis
-Left base effusion
-Left base focal atelectasis
-Left base opacity
-Left basilar
-Left basilar airspace disease
-Left basilar airspace opacity atelectasis
-Left basilar atelectasis
-Left basilar opacity XXXX
-Left central venous catheter
-Left humeral head
-Left humerus fracture
-Left knee
-Left lateral decubitus
-Left lower lobe
-Left lower lobe airspace disease
-Left lower lobe atelectasis
-Left lower lobe nodule
-Left lower lobe opacities
-Left lower lobe pneumonia
-Left lower lobe subsegmental atelectasis
-Left lung grossly
-Left lung nodule
-Left mid lung focal atelectasis
-Left mid lung opacity
-Left mid lung subsegmental atelectasis
-Left midlung
-Left midlung mass
-Left midlung opacity
-Left midlung pulmonary nodule
-Left midlung subsegmental atelectasis
-Left paraspinal/retrocrural adenopathy
-Left perihilar nodular opacity redemonstrated
-Left pleural effusion
-Left retrocardiac opacities
-Left upper lobe
-Left upper lobe opacities
-Left upper lobe pneumonia
-Left venous catheter
-Left ventricular enlargement
-Left-sided
-Left-sided dual-XXXX pacemaker
-Left-sided medication
-Left-sided small pleural effusion
-Limited chest radiograph
-Limited exam
-Limited examination
-Limited quality
-Limited study
-Lines
-Lingular airspace disease
-Lingular nodule
-Lingular subsegmental atelectasis
-Lobulated anterior mediastinal opacity
-Lobulated contour
-Loculated
-Low
-Low lung volume
-Low volume study
-Low volumes XXXX XXXX
-Lucency
-Lucent lesion
-Lumbar spine
-Lumbar spine negative
-Lung hyperexpansion
-Lung lines
-Lungs
-Malignancy
-Manifestations
-Metastatic disease
-Mild
-Mild age
-Mild bibasilar airspace disease
-Mild bibasilar atelectasis
-Mild cardiomegaly
-Mild emphysema
-Mild heart failure
-Mild hyperexpansion
-Mild hyperinflation
-Mild hypoinflation
-Mild interstitial edema
-Mild left base atelectasis
-Mild pulmonary vascular congestion
-Mild right basilar airspace consolidation
-Mild streakiness
-Mildly
-Mildly displaced fracture
-Mildly elevated
-Mildly enlarged
-Mildly hyperinflated
-Mildly limited study
-Mildly low
-Minimal
-Minimal left costophrenic XXXX airspace disease
-Minimal left midlung atelectasis
-Minimal residuals
-Minimal small area scarring
-Minimally
-Minimally displaced fracture
-Minimally displaced right lateral 8th rib fracture
-Moderate
-Moderate hiatus hernia
-Moderate right pleural effusion
-Moderate volume
-Moderate-to-large
-Moderately hyperinflated lung XXXX
-Multifocal
-Multilobar airspace consolidation
-Multiple
-Multiple nodules
-Multiple round opacities
-Multiple thoracic XXXX deformities XXXX
-NO acute
-Near complete
-Near-complete resolution
-Negative
-Negative chest
-Negative examination
-No
-No XXXX
-No XXXX suspicious
-No active
-No active cardiopulmonary disease
-No active disease
-No active/acute cardiopulmonary disease
-No acute
-No acute cardiopulmonary
-No acute cardiopulmonary abnormalities
-No acute cardiopulmonary abnormality
-No acute cardiopulmonary disease
-No acute cardiopulmonary process
-No acute disease
-No acute pulmonary disease
-No acute right pulmonary
-No change
-No evidence
-No fracture
-No fractures
-No interval
-No pneumonia
-No significant
-Nodular
-Nodular opacity
-Nonobstructive bowel
-Nonspecific
-Normal
-Normal bowel
-Normal chest
-Normal chest exam
-Normal chest radiograph
-Normal chest xray
-Normal exam
-Normal pulmonary XXXX
-Numerous
-Obscuration
-Obscured right heart XXXX
-Old granulomatous disease
-Opacities
-Opacity
-Outward XXXX
-PA
-PA chest
-PICC line
-Patchy
-Pathologic fractures
-Pectus carinatum
-Pectus excavatum
-Pelvis
-Perihilar opacities
-Peripheral vascular disease
-Persistent
-Persistent cardiomegaly
-Persistent mild right upper lobe infiltrate
-Pleural thickening
-Pneumonia
-Pneumoperitoneum
-Possibility
-Post operative chest
-Posterior airspace opacity
-Posterior basilar XXXX opacity XXXX
-Postoperative
-Postoperative chest
-Postsurgical
-Posttraumatic
-Primordial
-Probable
-Probable XXXX posterior recess effusions
-Probable lateral right 8th rib fracture
-Probable mild cardiomegaly
-Probable right lower lobe pneumonia
-Progressive
-Prominence
-Prominent
-Prominent mediastinum
-Prominent transverse
-Pulmonary arterial hypertension
-Pulmonary emphysema
-Pulmonary hypoinflation
-Pulmonary vascular congestion
-Question
-Question XXXX pleural effusions
-Question concomitant
-Question left atrial enlargement
-Question mild
-Question small amount
-REPORT
-Recurrent moderate
-Redemonstrated
-Redemonstrated pulmonary fibrosis
-Redemonstration
-Resolution
-Result
-Results
-Retrocardiac
-Retrocardiac density XXXX
-Retrolisthesis
-Ribs
-Right
-Right IJ catheter tip
-Right apical cavitary lesion
-Right apical opacities
-Right basal acute airspace disease
-Right base
-Right basilar airspace disease
-Right basilar infiltrate
-Right basilar opacities
-Right basilar opacity
-Right chest XXXX catheter tip
-Right foot
-Right foot 1
-Right hemidiaphragm elevation
-Right hilar
-Right knee
-Right lower lobe airspace disease
-Right lower lobe infiltrate
-Right lower lobe opacity
-Right lower lobe pneumonia
-Right lower lobe pulmonary nodule
-Right lung
-Right lung base airspace disease
-Right mid lung mass
-Right mid lung subsegmental atelectasis
-Right middle
-Right middle lobe
-Right middle lobe airspace disease
-Right middle lobe infiltrate
-Right middle lobe lung nodule
-Right midlung
-Right midlung scar
-Right paratracheal
-Right paratracheal density
-Right paratracheal mass
-Right perihilar lung nodule
-Right pleural densities
-Right pleural effusion
-Right shoulder
-Right subclavian catheter
-Right upper lobe
-Right upper lobe airspace consolidation
-Right upper lobe cavity
-Right upper lobe infiltrate
-Right upper lobe lung nodules
-Right upper lobe opacity
-Right upper lobe pneumonia
-Right upper lobe pulmonary nodule
-Right upper lobe subsegmental atelectasis
-Right-sided chest XXXX
-Right-sided small pleural effusion
-Round area
-Round density
-Round opacity
-SOFT TISSUE
-SVC
-Scapular fracture
-Scarring
-Scattered XXXX opacities
-Scoliotic curvature
-Senescent
-Severe
-Shortness of breath FINDINGS
-Significant
-Slight cardiomegaly
-Slight interval
-Small
-Small bilateral
-Small hiatal hernia
-Small left basilar
-Small left pleural effusion
-Small left pleural effusion/hemothorax
-Small left retrocardiac opacity
-Small pleural effusions
-Small right apical pneumothorax
-Small right juxtahilar opacity
-Small right pleural effusion
-Small right upper lobe nodule
-Soft tissue
-Stable
-Stable XXXX deformities
-Stable biapical
-Stable biapical opacities
-Stable cardiomediastinal silhouette
-Stable cardiomegaly
-Stable chest
-Stable chest radiograph
-Stable chronic lung disease
-Stable enlarged
-Stable left base opacities
-Stable left calcified
-Stable left chest
-Stable left lower
-Stable left lung consolidation
-Stable left thoracotomy
-Stable left upper lobe
-Stable mild
-Stable mild cardiomegaly
-Stable mild residual
-Stable moderate
-Stable position
-Stable right basilar scarring
-Stable right middle lobe bronchiectasis
-Stable right middle lobe consolidation
-Stable right upper lung lucency
-Stable scoliosis
-Stigmata
-Streaky
-Streaky right lower lobe infiltrate
-Subcutaneous emphysema
-Subsegmental atelectasis
-Subtle
-Suspected
-T11
-T12-L1
-T5
-T9 vertebral body
-TIPS
-Thoracic aortic
-Thoracic spine
-Tip
-Tortuous aorta
-Tortuous thoracic aorta
-Tortuous/ectatic thoracic aorta
-Tuberculosis
-Unchanged
-Unchanged cardiomegaly
-Unchanged right hilar mass
-Underinflated
-Underinflated lungs
-Unremarkable
-Unremarkable 2 views
-Unremarkable chest
-Vagal nerve
-Vague area
-Vague left upper lobe nodular density
-Vague opacity
-Vague right upper/mid
-Verification
-Veriphy critical result
-Wedge-shaped XXXX fracture
-Wide mediastinal XXXX
-Widening
-Worsening
-XXXX
-XXXX 7 XXXX nodular
-XXXX Department
-XXXX History
-XXXX T9
-XXXX XXXX
-XXXX XXXX PM
-XXXX XXXX XXXX
-XXXX XXXX atelectasis/airspace disease
-XXXX XXXX bilateral
-XXXX XXXX bilateral effusions
-XXXX XXXX opacities
-XXXX XXXX opacity
-XXXX XXXX right
-XXXX XXXX telephone
-XXXX a
-XXXX abdomen
-XXXX acute
-XXXX acute pneumonia
-XXXX acute to subacute
-XXXX adenopathy
-XXXX airspace disease
-XXXX airspace opacity
-XXXX atelectasis
-XXXX bilateral
-XXXX bilateral effusions
-XXXX bilateral lower lobe opacities
-XXXX bilaterally
-XXXX body
-XXXX bronchiolitis
-XXXX calcified granuloma
-XXXX cell disease
-XXXX chest
-XXXX chest radiograph
-XXXX chronic
-XXXX deformity
-XXXX deformity of
-XXXX deformity of T6
-XXXX edema
-XXXX effusion
-XXXX effusions
-XXXX factors
-XXXX focal atelectasis
-XXXX fracture
-XXXX granuloma
-XXXX hours
-XXXX infectious etiology
-XXXX left basilar
-XXXX left basilar opacities
-XXXX left basilar opacity
-XXXX left lower lobe airspace disease
-XXXX left lower lobe nodule
-XXXX left parapneumonic
-XXXX left upper lobe infiltrate
-XXXX left upper lobe opacities
-XXXX left-sided pleural effusion
-XXXX lucency
-XXXX motion
-XXXX not visible
-XXXX of bowel
-XXXX of interstitial edema
-XXXX onset
-XXXX opacities
-XXXX opacities overlying
-XXXX opacity
-XXXX opacity overlying
-XXXX partial
-XXXX pericardial effusion
-XXXX position
-XXXX posterior pleural effusion
-XXXX pulmonary
-XXXX pulmonary arterial hypertension
-XXXX pulmonary nodularity
-XXXX pulmonary nodule
-XXXX pulmonary opacities
-XXXX radiograph
-XXXX represents pneumonia
-XXXX residual atelectasis
-XXXX right apical nodule
-XXXX right basilar airspace opacity
-XXXX right effusion
-XXXX right medial
-XXXX right pleural effusion
-XXXX scan
-XXXX scarring
-XXXX sclerotic
-XXXX sequela
-XXXX stent
-XXXX sternotomy
-XXXX sternotomy XXXX
-XXXX subsegmental atelectasis
-XXXX summation artifact
-XXXX tenderness
-XXXX thorax
-XXXX tip
-XXXX-XXXX
-XXXX-of-view
-XXXX/XXXX
-XXXX/fluid
-XXXXPM
+ap
+abdomen
+abdomen 1
+abnormal
+abnormal configuration
+acromioclavicular separation
+acute cardiopulmonary disease
+acute obliquely oriented lucency
+age indeterminant
+age-indeterminate
+age-indeterminate fracture
+air-fluid level
+airspace
+aortic tortuosity
+apical capping
+apparent old
+apparent scarring
+appearance
+approximately
+asymmetric left suprahilar opacity
+atypical
+atypical infection
+bandlike opacities
+basilar
+basilar atelectasis
+biapical opacities
+bibasilar
+bibasilar airspace disease
+bibasilar airspace opacities
+bibasilar atelectasis
+bibasilar atelectasis/infiltrate
+bibasilar bandlike opacities
+bibasilar opacities
+bibasilar pneumonia
+bibasilar subsegmental atelectasis
+bihilar
+bilateral
+bilateral airspace disease
+bilateral effusions
+blunting
+bone scan
+bony structures
+borderline
+borderline cardiomegaly
+borderline enlarged heart
+borderline enlargement
+borderline heart size
+buckling deformity
+bullous disease
+bullous emphysema
+cabg
+copd
+ct
+ct chest
+ct scan
+ct thorax
+cta
+cxr
+calcified left coronary arteries
+calcified left paraesophageal
+cardiac xxxx
+cardiac defibrillator
+cardiac pacemaker
+cardiac pacing
+cardiomegaly
+cardiomegaly 2
+cardiomegaly/pericardial fluid
+central pulmonary vascular congestion
+changes
+chest
+chest 1
+chest ct
+chest radiograph
+chest radiograph 1
+chest x-xxxx
+cholelithiasis
+chronic
+chronic changes
+chronic interstitial lung disease
+chronic interstitial pattern
+chronic lung
+chronic lung disease
+chronic obstructive pulmonary disease
+chronic parenchymal
+chronic right middle lobe scar
+circumscribed structure
+clavicle
+clear lungs
+cleared left lower lobe airspace disease
+clinical correlation
+compared
+comparison
+concern
+congestive heart failure
+considerations
+constellation
+contrast-enhanced xxxx examination
+core irregularity
+correlate
+correlation
+correlation xxxx scan
+corresponds
+critical result
+crowded
+date
+decreased
+decreasing
+decreasing right pleural effusion
+decreasing right upper lobe cavity
+degenerative
+developing heart failure
+developing left upper lobe consolidation
+dextroscoliosis
+diagnostic considerations
+diffuse fibrosis
+diffuse interstitial lung disease
+diffuse reticulonodular pattern
+dilated pulmonary arteries
+discrete xxxx projectile
+distal tip
+dr. xxxx xxxx
+dr. xxxx xxxx i
+dr. xxxx xxxx telephone
+dr. xxxx- xxxx
+dual-xxxx
+ectatic aorta
+elevated left diaphragm
+elevated left hemidiaphragm
+elevated right hemidiaphragm
+emphysema
+emphysematous changes
+endotracheal tube
+enlarged cardiac silhouette
+enlarged pulmonary arteries
+enlargement
+epigastric
+evaluation
+evidence
+exact etiology
+frontal/lateral
+feeding tube tip
+femur
+findings
+focal airspace disease
+focal area
+focal atelectasis
+focal density overlying
+focal opacity
+followup
+followup chest
+followup exam
+followup radiographs
+fracture
+fracture deformity proximal right humerus
+fracture-dislocation
+fractures
+generalized low lung lungs
+hand 1
+haziness
+heart failure
+heart size
+hiatal hernia
+high-resolution xxxx
+hodgkin's lymphoma
+hyperexpanded
+hyperexpanded lung xxxx
+hyperexpanded lungs
+hyperexpansion
+hyperinflated
+hyperinflated lungs
+hyperinflation
+hypoinflation
+hypoventilated
+icd
+icd/pacemaker
+iv contrast
+ill-defined oblong
+ill-defined opacity
+improving
+increase
+increased
+increasing
+indistinct vascular margination
+interstitial markings
+interstitial prominence
+interstitial pulmonary edema
+interval
+interval cabg
+interval central catheter exchange
+interval development
+interval enlargement
+interval followup
+interval improvement
+interval left subclavian
+interval placement
+interval removal
+interval resolution
+interval worsening
+irregular
+kub
+l2
+large left lower lobe opacity
+leads
+left
+left ankle
+left base
+left base airspace disease
+left base atelectasis
+left base effusion
+left base focal atelectasis
+left base opacity
+left basilar
+left basilar airspace disease
+left basilar airspace opacity atelectasis
+left basilar atelectasis
+left basilar opacity xxxx
+left central venous catheter
+left humeral head
+left humerus fracture
+left knee
+left lateral decubitus
+left lower lobe
+left lower lobe airspace disease
+left lower lobe atelectasis
+left lower lobe nodule
+left lower lobe opacities
+left lower lobe pneumonia
+left lower lobe subsegmental atelectasis
+left lung grossly
+left lung nodule
+left mid lung focal atelectasis
+left mid lung opacity
+left mid lung subsegmental atelectasis
+left midlung
+left midlung mass
+left midlung opacity
+left midlung pulmonary nodule
+left midlung subsegmental atelectasis
+left paraspinal/retrocrural adenopathy
+left perihilar nodular opacity redemonstrated
+left pleural effusion
+left retrocardiac opacities
+left upper lobe
+left upper lobe opacities
+left upper lobe pneumonia
+left venous catheter
+left ventricular enlargement
+left-sided
+left-sided dual-xxxx pacemaker
+left-sided medication
+left-sided small pleural effusion
+limited chest radiograph
+limited exam
+limited examination
+limited quality
+limited study
+lines
+lingular airspace disease
+lingular nodule
+lingular subsegmental atelectasis
+lobulated anterior mediastinal opacity
+lobulated contour
+loculated
+low
+low lung volume
+low volume study
+low volumes xxxx xxxx
+lucency
+lucent lesion
+lumbar spine
+lumbar spine negative
+lung hyperexpansion
+lung lines
+lungs
+malignancy
+manifestations
+metastatic disease
+mild
+mild age
+mild bibasilar airspace disease
+mild bibasilar atelectasis
+mild cardiomegaly
+mild emphysema
+mild heart failure
+mild hyperexpansion
+mild hyperinflation
+mild hypoinflation
+mild interstitial edema
+mild left base atelectasis
+mild pulmonary vascular congestion
+mild right basilar airspace consolidation
+mild streakiness
+mildly
+mildly displaced fracture
+mildly elevated
+mildly enlarged
+mildly hyperinflated
+mildly limited study
+mildly low
+minimal
+minimal left costophrenic xxxx airspace disease
+minimal left midlung atelectasis
+minimal residuals
+minimal small area scarring
+minimally
+minimally displaced fracture
+minimally displaced right lateral 8th rib fracture
+moderate
+moderate hiatus hernia
+moderate right pleural effusion
+moderate volume
+moderate-to-large
+moderately hyperinflated lung xxxx
+multifocal
+multilobar airspace consolidation
+multiple
+multiple nodules
+multiple round opacities
+multiple thoracic xxxx deformities xxxx
+no acute
+near complete
+near-complete resolution
+negative
+negative chest
+negative examination
+no
+no xxxx
+no xxxx suspicious
+no active
+no active cardiopulmonary disease
+no active disease
+no active/acute cardiopulmonary disease
+no acute
+no acute cardiopulmonary
+no acute cardiopulmonary abnormalities
+no acute cardiopulmonary abnormality
+no acute cardiopulmonary disease
+no acute cardiopulmonary process
+no acute disease
+no acute pulmonary disease
+no acute right pulmonary
+no change
+no evidence
+no fracture
+no fractures
+no interval
+no pneumonia
+no significant
+nodular
+nodular opacity
+nonobstructive bowel
+nonspecific
+normal
+normal bowel
+normal chest
+normal chest exam
+normal chest radiograph
+normal chest xray
+normal exam
+normal pulmonary xxxx
+numerous
+obscuration
+obscured right heart xxxx
+old granulomatous disease
+opacities
+opacity
+outward xxxx
+pa
+pa chest
+picc line
+patchy
+pathologic fractures
+pectus carinatum
+pectus excavatum
+pelvis
+perihilar opacities
+peripheral vascular disease
+persistent
+persistent cardiomegaly
+persistent mild right upper lobe infiltrate
+pleural thickening
+pneumonia
+pneumoperitoneum
+possibility
+post operative chest
+posterior airspace opacity
+posterior basilar xxxx opacity xxxx
+postoperative
+postoperative chest
+postsurgical
+posttraumatic
+primordial
+probable
+probable xxxx posterior recess effusions
+probable lateral right 8th rib fracture
+probable mild cardiomegaly
+probable right lower lobe pneumonia
+progressive
+prominence
+prominent
+prominent mediastinum
+prominent transverse
+pulmonary arterial hypertension
+pulmonary emphysema
+pulmonary hypoinflation
+pulmonary vascular congestion
+question
+question xxxx pleural effusions
+question concomitant
+question left atrial enlargement
+question mild
+question small amount
+report
+recurrent moderate
+redemonstrated
+redemonstrated pulmonary fibrosis
+redemonstration
+resolution
+result
+results
+retrocardiac
+retrocardiac density xxxx
+retrolisthesis
+ribs
+right
+right ij catheter tip
+right apical cavitary lesion
+right apical opacities
+right basal acute airspace disease
+right base
+right basilar airspace disease
+right basilar infiltrate
+right basilar opacities
+right basilar opacity
+right chest xxxx catheter tip
+right foot
+right foot 1
+right hemidiaphragm elevation
+right hilar
+right knee
+right lower lobe airspace disease
+right lower lobe infiltrate
+right lower lobe opacity
+right lower lobe pneumonia
+right lower lobe pulmonary nodule
+right lung
+right lung base airspace disease
+right mid lung mass
+right mid lung subsegmental atelectasis
+right middle
+right middle lobe
+right middle lobe airspace disease
+right middle lobe infiltrate
+right middle lobe lung nodule
+right midlung
+right midlung scar
+right paratracheal
+right paratracheal density
+right paratracheal mass
+right perihilar lung nodule
+right pleural densities
+right pleural effusion
+right shoulder
+right subclavian catheter
+right upper lobe
+right upper lobe airspace consolidation
+right upper lobe cavity
+right upper lobe infiltrate
+right upper lobe lung nodules
+right upper lobe opacity
+right upper lobe pneumonia
+right upper lobe pulmonary nodule
+right upper lobe subsegmental atelectasis
+right-sided chest xxxx
+right-sided small pleural effusion
+round area
+round density
+round opacity
+soft tissue
+svc
+scapular fracture
+scarring
+scattered xxxx opacities
+scoliotic curvature
+senescent
+severe
+shortness of breath findings
+significant
+slight cardiomegaly
+slight interval
+small
+small bilateral
+small hiatal hernia
+small left basilar
+small left pleural effusion
+small left pleural effusion/hemothorax
+small left retrocardiac opacity
+small pleural effusions
+small right apical pneumothorax
+small right juxtahilar opacity
+small right pleural effusion
+small right upper lobe nodule
+soft tissue
+stable
+stable xxxx deformities
+stable biapical
+stable biapical opacities
+stable cardiomediastinal silhouette
+stable cardiomegaly
+stable chest
+stable chest radiograph
+stable chronic lung disease
+stable enlarged
+stable left base opacities
+stable left calcified
+stable left chest
+stable left lower
+stable left lung consolidation
+stable left thoracotomy
+stable left upper lobe
+stable mild
+stable mild cardiomegaly
+stable mild residual
+stable moderate
+stable position
+stable right basilar scarring
+stable right middle lobe bronchiectasis
+stable right middle lobe consolidation
+stable right upper lung lucency
+stable scoliosis
+stigmata
+streaky
+streaky right lower lobe infiltrate
+subcutaneous emphysema
+subsegmental atelectasis
+subtle
+suspected
+t11
+t12-l1
+t5
+t9 vertebral body
+tips
+thoracic aortic
+thoracic spine
+tip
+tortuous aorta
+tortuous thoracic aorta
+tortuous/ectatic thoracic aorta
+tuberculosis
+unchanged
+unchanged cardiomegaly
+unchanged right hilar mass
+underinflated
+underinflated lungs
+unremarkable
+unremarkable 2 views
+unremarkable chest
+vagal nerve
+vague area
+vague left upper lobe nodular density
+vague opacity
+vague right upper/mid
+verification
+veriphy critical result
+wedge-shaped xxxx fracture
+wide mediastinal xxxx
+widening
+worsening
+xxxx
+xxxx 7 xxxx nodular
+xxxx department
+xxxx history
+xxxx t9
+xxxx xxxx
+xxxx xxxx pm
+xxxx xxxx xxxx
+xxxx xxxx atelectasis/airspace disease
+xxxx xxxx bilateral
+xxxx xxxx bilateral effusions
+xxxx xxxx opacities
+xxxx xxxx opacity
+xxxx xxxx right
+xxxx xxxx telephone
+xxxx a
+xxxx abdomen
+xxxx acute
+xxxx acute pneumonia
+xxxx acute to subacute
+xxxx adenopathy
+xxxx airspace disease
+xxxx airspace opacity
+xxxx atelectasis
+xxxx bilateral
+xxxx bilateral effusions
+xxxx bilateral lower lobe opacities
+xxxx bilaterally
+xxxx body
+xxxx bronchiolitis
+xxxx calcified granuloma
+xxxx cell disease
+xxxx chest
+xxxx chest radiograph
+xxxx chronic
+xxxx deformity
+xxxx deformity of
+xxxx deformity of t6
+xxxx edema
+xxxx effusion
+xxxx effusions
+xxxx factors
+xxxx focal atelectasis
+xxxx fracture
+xxxx granuloma
+xxxx hours
+xxxx infectious etiology
+xxxx left basilar
+xxxx left basilar opacities
+xxxx left basilar opacity
+xxxx left lower lobe airspace disease
+xxxx left lower lobe nodule
+xxxx left parapneumonic
+xxxx left upper lobe infiltrate
+xxxx left upper lobe opacities
+xxxx left-sided pleural effusion
+xxxx lucency
+xxxx motion
+xxxx not visible
+xxxx of bowel
+xxxx of interstitial edema
+xxxx onset
+xxxx opacities
+xxxx opacities overlying
+xxxx opacity
+xxxx opacity overlying
+xxxx partial
+xxxx pericardial effusion
+xxxx position
+xxxx posterior pleural effusion
+xxxx pulmonary
+xxxx pulmonary arterial hypertension
+xxxx pulmonary nodularity
+xxxx pulmonary nodule
+xxxx pulmonary opacities
+xxxx radiograph
+xxxx represents pneumonia
+xxxx residual atelectasis
+xxxx right apical nodule
+xxxx right basilar airspace opacity
+xxxx right effusion
+xxxx right medial
+xxxx right pleural effusion
+xxxx scan
+xxxx scarring
+xxxx sclerotic
+xxxx sequela
+xxxx stent
+xxxx sternotomy
+xxxx sternotomy xxxx
+xxxx subsegmental atelectasis
+xxxx summation artifact
+xxxx tenderness
+xxxx thorax
+xxxx tip
+xxxx-xxxx
+xxxx-of-view
+xxxx/xxxx
+xxxx/fluid
+xxxxpm
 abdomen
 abdominal decubitus
 abdominal surgery
@@ -674,7 +674,7 @@ abnormality
 absence
 acromioclavicular joint
 active
-active TB
+active tb
 active cardiac
 active cardiopulmonary disease
 active disease
@@ -714,7 +714,7 @@ acute pulmonary
 acute pulmonary abnormality
 acute pulmonary disease
 acute pulmonary process
-acute thoracic XXXX
+acute thoracic xxxx
 acute thoracic abnormality
 adenopathy
 adjacent
@@ -735,7 +735,7 @@ amount
 aneurysm
 aneurysmal
 anterior
-anterior XXXX cortical
+anterior xxxx cortical
 anterior cortex
 anterior mediastinal mass
 anterior right
@@ -787,7 +787,7 @@ bibasilar atelectasis
 bibasilar atelectasis/airspace disease
 bibasilar focal atelectasis
 bibasilar opacities
-bibasilar opacities XXXX
+bibasilar opacities xxxx
 bibasilar pulmonary interstitial edema
 bibasilar subpleural interstitial opacities
 bilateral
@@ -804,7 +804,7 @@ bone silhouettes
 bony
 bony erosions
 bony injury
-bowel XXXX
+bowel xxxx
 brain tumor
 breast carcinoma
 bronchiectasis
@@ -818,7 +818,7 @@ calcified granuloma
 calcified granulomas
 calcium
 callus formation
-cardiac XXXX
+cardiac xxxx
 cardiac aneurysm
 cardiac enlargement
 cardiac pacemaker
@@ -849,11 +849,11 @@ characterization
 characterize
 characterized
 chest
-chest CT
-chest CT scan
+chest ct
+chest ct scan
 chest radiograph
 chest wall
-chest x-XXXX
+chest x-xxxx
 chest/abdomen
 chronic
 chronic bony abnormalities
@@ -906,13 +906,13 @@ consolidation
 consolidations
 consolidative
 contour
-contrast XXXX
-contrast-enhanced CT
+contrast xxxx
+contrast-enhanced ct
 coronal
 correlate
 correlation
-costophrenic XXXX
-costophrenic XXXX blunting
+costophrenic xxxx
+costophrenic xxxx blunting
 courses
 cross sectional imaging
 crowding
@@ -921,7 +921,7 @@ decompensated congestive heart failure
 decrease
 decreased
 decubitus
-defibrillator XXXX
+defibrillator xxxx
 deformities
 degenerative
 degenerative change
@@ -959,7 +959,7 @@ distal right clavicle
 distal tip
 document
 document resolution
-dual XXXX
+dual xxxx
 dual-lumen dialysis catheter
 dual-lumen right internal jugular central venous catheter
 dyspnea
@@ -1029,13 +1029,13 @@ follow up
 follow up chest
 follow up imaging
 followup
-followup PA
+followup pa
 followup chest
 followup imaging
 followup radiograph
 followup radiographs
 followup radiography
-for&lt;BR&gt;metastatic disease
+for&lt;br&gt;metastatic disease
 fracture
 fractured
 fractures
@@ -1066,9 +1066,9 @@ heart size
 hemidiaphragm
 hemoptysis
 hiatal hernia
-high energy XXXX
+high energy xxxx
 hilar fullness
-hilar lymph XXXX
+hilar lymph xxxx
 hilar regions
 hilar retraction
 hips negative
@@ -1086,8 +1086,8 @@ identity
 idiopathic interstitial pneumonitis
 images
 imaging
-imaging XXXX
-imaging XXXX examination
+imaging xxxx
+imaging xxxx examination
 imaging studies
 improved
 improvement
@@ -1113,9 +1113,9 @@ inflammation
 inflammatory
 inflammatory processes
 informed
-injection XXXX
+injection xxxx
 innominate vein
-inspiratory XXXX
+inspiratory xxxx
 institution
 intact
 interpretation
@@ -1128,7 +1128,7 @@ interstitial infiltrates
 interstitial lung disease
 interstitial markings
 interstitial opacities
-interstitial opacities XXXX represent
+interstitial opacities xxxx represent
 interstitial opacity
 interstitial prominence
 interstitial pulmonary
@@ -1147,14 +1147,14 @@ knee
 laparoscopic surgery
 large bowel
 lateral
-lateral XXXX
-lateral XXXX XXXX
+lateral xxxx
+lateral xxxx xxxx
 lateral chest
 lateral chest radiographs
-lateral costophrenic XXXX
+lateral costophrenic xxxx
 lateral exam
 lateral left base
-lateral radiograph XXXX XXXX
+lateral radiograph xxxx xxxx
 lateral right 7th rib
 lateral right base
 lateral view
@@ -1169,7 +1169,7 @@ left atrial appendage
 left atrial enlargement
 left atrium
 left base
-left base XXXX atelectasis
+left base xxxx atelectasis
 left base airspace disease
 left base atelectasis
 left base focal atelectasis
@@ -1181,9 +1181,9 @@ left basilar infiltrate
 left basilar opacities
 left basilar opacity
 left basilar subsegmental atelectasis
-left cardiophrenic XXXX
+left cardiophrenic xxxx
 left chest
-left costophrenic XXXX
+left costophrenic xxxx
 left costophrenic recess
 left diaphragm
 left glenohumeral joint
@@ -1206,7 +1206,7 @@ left lower lung
 left lower lung atelectasis
 left lung
 left lung base
-left lung base XXXX
+left lung base xxxx
 left midlung
 left midlung zone
 left perihilar
@@ -1225,7 +1225,7 @@ left upper lung
 left worse
 left worse right
 left-sided
-left-sided XXXX
+left-sided xxxx
 left-sided scarring/subsegmental atelectasis
 left-sided volume loss
 lesions
@@ -1237,7 +1237,7 @@ lingular focal atelectasis
 lingular regions
 lobar consolidation
 lobar pneumonia
-lobes XXXX
+lobes xxxx
 localize
 localized
 localized fluid
@@ -1251,11 +1251,11 @@ lower lobe interstitial opacities
 lower lobe patchy opacities
 lower lobe pneumonia
 lower lobes
-lower thoracic XXXX deformity
-lower thoracic slight XXXX deformity
+lower thoracic xxxx deformity
+lower thoracic slight xxxx deformity
 lumbar spine
 lung
-lung XXXX
+lung xxxx
 lung apices
 lung bases
 lung markings
@@ -1340,7 +1340,7 @@ nodule/mass
 nodules
 non
 nonconsolidating right lower lobe airspace disease
-noncontrast XXXX
+noncontrast xxxx
 noncontrast chest
 noncontrasted
 nondisplaced
@@ -1351,7 +1351,7 @@ nonenlarged cardiomediastinal silhouette
 nonspecific
 normal
 notification
-notification XXXX
+notification xxxx
 notified
 obstruction
 obstructive atelectasis
@@ -1391,7 +1391,7 @@ patient's
 patient's history
 pattern
 pelvis
-pelvis XXXX
+pelvis xxxx
 peribronchial cuffing
 peribronchial pneumonia
 pericardial effusion
@@ -1407,8 +1407,8 @@ persistent right middle lobe airspace disease
 physicians
 piriform sinus
 platelike bibasilar
-please XXXX
-please XXXX XXXX
+please xxxx
+please xxxx xxxx
 pleural
 pleural abnormality
 pleural disease
@@ -1450,7 +1450,7 @@ primary differential diagnosis
 primary lung cancer
 primary lung carcinoma
 primary malignancy
-primordial XXXX
+primordial xxxx
 process
 progression
 progressive
@@ -1458,7 +1458,7 @@ projected
 projecting
 projects
 prominence
-prominence XXXX
+prominence xxxx
 prominent
 prostate cancer
 prosthetic aortic valve
@@ -1497,7 +1497,7 @@ questions
 radiation
 radiodense
 radiograph
-radiograph XXXX
+radiograph xxxx
 radiographic
 radiographically
 radiographs
@@ -1512,7 +1512,7 @@ recommended
 recurrent pneumonia
 region
 remote
-renal collecting XXXX
+renal collecting xxxx
 report
 residual
 resolution
@@ -1532,10 +1532,10 @@ rib fractures
 rib series
 ribs
 right
-right XXXX
-right XXXX XXXX
-right XXXX pneumothorax
-right aortic XXXX
+right xxxx
+right xxxx xxxx
+right xxxx pneumothorax
+right aortic xxxx
 right apex
 right apical thickening/atelectasis
 right atrium
@@ -1551,14 +1551,14 @@ right basilar scarring
 right chest tube
 right chest wall
 right clavicle
-right costophrenic XXXX
-right costophrenic XXXX pleural thickening
+right costophrenic xxxx
+right costophrenic xxxx pleural thickening
 right costophrenic sulcus
 right hemidiaphragm
 right hemidiaphragm medially
 right hilum
 right humeral head
-right humeral orthopedic XXXX
+right humeral orthopedic xxxx
 right infrahilar infiltrate
 right larger
 right lateral 9th rib
@@ -1596,9 +1596,9 @@ right shoulder films
 right shoulder fracture
 right upper
 right upper lobe
-right upper lobe focal opacity XXXX
+right upper lobe focal opacity xxxx
 right upper lobe lung nodule
-right upper lobe opacities XXXX
+right upper lobe opacities xxxx
 right upper lobe resection
 right upper quadrant
 right ventricle
@@ -1637,7 +1637,7 @@ short interval
 short-term
 shoulder
 shoulder muscles
-shoulder x-XXXX
+shoulder x-xxxx
 significance
 significant
 significant interval
@@ -1656,7 +1656,7 @@ small nodules
 small pleural effusions
 small right pleural effusion
 soft tissue
-spinal XXXX placement
+spinal xxxx placement
 spine
 stability
 stable
@@ -1666,8 +1666,8 @@ stable position
 stable position right chest
 stable right basilar atelectasis
 staff radiologist
-sternotomy XXXX
-sternotomy XXXX fragment
+sternotomy xxxx
+sternotomy xxxx fragment
 sternum
 stomach
 streaky
@@ -1683,13 +1683,13 @@ subsegmental bibasilar atelectasis
 suggestions
 sulcus
 superimposed
-superimposed XXXX
+superimposed xxxx
 superimposed acute disease
 superimposed chronic lung disease/fibrosis
 superimposed left upper lobe aspergilloma
 superimposed pneumonia
 superimposed structures
-superimposing blood XXXX
+superimposing blood xxxx
 superior
 superior segment
 surgery
@@ -1706,7 +1706,7 @@ tenderness
 therapy
 thickening
 thin
-thoracic XXXX
+thoracic xxxx
 thoracic aorta
 thoracic injury
 thoracic metastases
@@ -1721,7 +1721,7 @@ today's exam
 today's radiograph
 today's study
 tortuosity
-tortuous XXXX
+tortuous xxxx
 tortuous thoracic aorta
 tortuous/ectatic thoracic aorta
 traction bronchiectasis
@@ -1737,7 +1737,7 @@ unchanged
 unchanged position
 unclear
 unremarkable
-upper XXXX XXXX
+upper xxxx xxxx
 upper abdomen
 upper lobe scars
 upper lobes
@@ -1746,29 +1746,29 @@ upper lumbar vertebra
 upper mediastinal mass
 upper mediastinum
 upper thoracic segments
-upper thoracic vertebral body XXXX
+upper thoracic vertebral body xxxx
 upper thorax
 vague opacity
 vascular
-vascular XXXX
+vascular xxxx
 vascular congestion
 vascular process
 vascular structure
 vascular structures
 vertebral body
-vertebral body XXXX deformity
+vertebral body xxxx deformity
 viral bronchiolitis
 visible
 visualized
 visualized nodule
-visualized thoracic XXXX
+visualized thoracic xxxx
 volume loss
 volume overload
 volumes
-wedge XXXX deformity
+wedge xxxx deformity
 wedging
 weeks
 workup
 worsening
 wound
-x-XXXX
+x-xxxx
