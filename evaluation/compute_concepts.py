@@ -17,10 +17,10 @@ if "scispacy_linker" not in nlp.pipe_names:
     })
 
 print("Model loaded. Processing dataset...")
-dataset_path = 'test.jsonl'
+dataset_path = 'evaluation/iCliniq/iCliniq_test.jsonl'
 dataset = load_dataset("json", data_files=dataset_path, split="train")
 dataset
-references = [ex["target"] for ex in dataset]
+references = [ex["summary"] for ex in dataset]
 print("Loaded dataset and references")
 
 def extract_cuis(text):
@@ -71,7 +71,7 @@ def extract_semtypes(text):
 
 print("Defined functions")
 
-generated_summaries_path = "generated_summaries.txt"
+generated_summaries_path = "evaluation/generated_summaries.txt"
 with open(generated_summaries_path, "r") as f:
     generated_summaries = f.read().splitlines()
     print("Loaded generated summaries")

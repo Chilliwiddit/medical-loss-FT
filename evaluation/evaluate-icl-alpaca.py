@@ -34,6 +34,7 @@ adapter_model_id = "Chilliwiddit/CHQSumm-llama3.1-8B-LoRA-pyTorch"
 print("loading base model")
 base_model = AutoModelForCausalLM.from_pretrained(
     base_model_id,
+    revision = "70d37f62f4f475a5a42dbbd5b7aad38f420e0960",
     device_map="auto",
     low_cpu_mem_usage=True,
     torch_dtype=torch.float16,
@@ -44,7 +45,10 @@ model = PeftModel.from_pretrained(base_model, adapter_model_id)
 model.eval()
 
 print("and tokenizer")
-tokenizer = AutoTokenizer.from_pretrained(adapter_model_id)
+tokenizer = AutoTokenizer.from_pretrained(
+    adapter_model_id, 
+    revision = "70d37f62f4f475a5a42dbbd5b7aad38f420e0960"
+    )
 print("done")
 
 
@@ -59,7 +63,7 @@ if "scispacy_linker" not in nlp.pipe_names:
     })
 
 dataset_path = '/kaggle/input/datasets/nivedhithii/meqsum-test/MeQSum_test.jsonl'
-dataset = load_dataset("json", data_files=dataset_path, split="train")
+dataset = load_dataset("json", data_files=dataset_path, split="train", revision="main")
 
 dataset
 
@@ -268,7 +272,7 @@ for i, gen_summary in enumerate(generated_summaries):
     fn = len(ref_cuis - gen_cuis)
 
     precision = tp / (tp + fp + 1e-6)
-    recall    = tp / (tp + fn + 1e-6)
+    recall = tp / (tp + fn + 1e-6)
     f1 = 2 * precision * recall / (precision + recall + 1e-6)
     
     f1_scores.append(f1)
