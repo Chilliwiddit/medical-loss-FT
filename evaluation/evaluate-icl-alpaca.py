@@ -63,7 +63,7 @@ if "scispacy_linker" not in nlp.pipe_names:
     })
 
 dataset_path = '/kaggle/input/datasets/nivedhithii/meqsum-test/MeQSum_test.jsonl'
-dataset = load_dataset("json", data_files=dataset_path, split="train") # nolist
+dataset = load_dataset("json", data_files=dataset_path, split="train") # nosec
 
 dataset
 
