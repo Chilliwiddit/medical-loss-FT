@@ -1,0 +1,10 @@
+{
+  "exclude": [
+    "!inference/AsclepiusLM-frontend/**" 
+  ],
+  "languages": {
+    "javascript": { "enabled": true },
+    "css": { "enabled": true },
+    "html": { "enabled": true }
+  }
+}
